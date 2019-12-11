@@ -1,0 +1,1236 @@
+Id,TURNO_MATRICULA,SITUACAO_CIVIL_ALUNO,SEXO_ALUNO,DATA_CADASTRO_REQUERIMENTO,MOTIVO_REQUERIMENTO,TURMA,AREA_TURMA
+1,Noturno,Casado(a),Masculino,2019-09-12,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - II MÓDULO,Gestäo
+2,Noturno,Solteiro(a),Feminino,2019-09-10,Outros Motivos,CURSO SUPERIOR DE TECNOLOGIA EM LOGÍSTICA - MÓDULO II,Gestäo
+3,Noturno,Solteiro(a),Feminino,2019-09-10,Dificuldades Financeiras,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - II MÓDULO,Gestäo
+4,Noturno,Solteiro(a),Feminino,2019-09-10,Não se identificou com o curso,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO II,Informática
+5,Noturno,União Estável,Masculino,2019-09-09,Não se adaptou a metodologia,Superior de Tecnologia em Análise e Desenvolvimento de Sistemas - Módulo I,Informática
+6,Noturno,Casado(a),Masculino,2019-09-06,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM LOGÍSTICA - MÓDULO IV,Gestäo
+7,Noturno,Solteiro(a),Masculino,2019-09-06,Motivo de Estudo,SUPERIOR DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS - MÓDULO II,Informática
+8,Noturno,Solteiro(a),Masculino,2019-09-05,Outros Motivos,SUPERIOR DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS - MÓDULO II,Informática
+9,Noturno,Solteiro(a),Masculino,2019-09-05,Não se identificou com o curso,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - II MÓDULO,Design
+10,Noturno,Solteiro(a),Masculino,2019-09-05,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - II MÓDULO,Gestäo
+11,Noturno,Solteiro(a),Feminino,2019-09-03,Outros Motivos,CURSO SUPERIOR DE TECNOLOGIA EM ESTÉTICA E COSMÉTICA - MÓDULO II,Saúde
+12,Noturno,Solteiro(a),Masculino,2019-09-03,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - II MÓDULO,Gestäo
+13,Noturno,Solteiro(a),Masculino,2019-09-03,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - II MÓDULO,Gestäo
+14,Noturno,Casado(a),Masculino,2019-09-03,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - II MÓDULO,Gestäo
+15,Noturno,Casado(a),Feminino,2019-09-03,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - II MÓDULO,Gestäo
+16,Noturno,Solteiro(a),Masculino,2019-09-03,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - II MÓDULO,Gestäo
+17,Noturno,Solteiro(a),Masculino,2019-09-03,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - II MÓDULO,Gestäo
+18,Matutino,Solteiro(a),Feminino,2019-09-02,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - II MÓDULO - VN,Design
+19,Noturno,Solteiro(a),Masculino,2019-08-31,Motivo de Saúde,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - IV MÓDULO,Informática
+20,Noturno,Solteiro(a),Feminino,2019-08-30,Não se identificou com o curso,Superior de Tecnologia em Análise e Desenvolvimento de Sistemas - Módulo I,Informática
+21,Noturno,Solteiro(a),Masculino,2019-08-30,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - II MÓDULO,Gestäo
+22,Noturno,Solteiro(a),Masculino,2019-08-29,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM LOGÍSTICA - MÓDULO II,Gestäo
+23,Noturno,Solteiro(a),Masculino,2019-08-29,Motivo de Viagens,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - II MÓDULO,Design
+24,Matutino,Solteiro(a),Feminino,2019-08-29,Outros Motivos,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - II MÓDULO - VN,Design
+25,Noturno,Solteiro(a),Masculino,2019-08-28,Mudança de Município,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - IV MÓDULO,Design
+26,Noturno,Solteiro(a),Masculino,2019-08-28,Motivo de Saúde,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - II MÓDULO,Gestäo
+27,Noturno,Solteiro(a),Feminino,2019-08-26,Motivo de Saúde,Superior de Tecnologia em Análise e Desenvolvimento de Sistemas - Módulo I,Informática
+28,Matutino,Casado(a),Feminino,2019-08-23,Cancelamento da Programação,Curso Superior de Tecnologia em Estética e Cosmética - Módulo I,Saúde
+29,Noturno,Solteiro(a),Masculino,2019-08-22,Cancelamento da Programação,Curso Superior de Tecnologia em Logística - Módulo I,Gestäo
+30,Noturno,Solteiro(a),Masculino,2019-08-22,Cancelamento da Programação,Curso Superior de Tecnologia em Logística - Módulo I,Gestäo
+31,Noturno,Casado(a),Masculino,2019-08-22,Cancelamento da Programação,Superior de Tecnologia em Design Gráfico - I Módulo,Design
+32,Noturno,Solteiro(a),Masculino,2019-08-22,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - II MÓDULO,Gestäo
+33,Noturno,Solteiro(a),Feminino,2019-08-21,Motivo de Viagens,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - II MÓDULO,Gestäo
+34,Noturno,Solteiro(a),Feminino,2019-08-19,Outros Motivos,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - II MÓDULO,Design
+35,Noturno,Solteiro(a),Feminino,2019-08-17,Cancelamento da Programação,CURSO SUPERIOR DE TECNOLOGIA EM ESTÉTICA E COSMÉTICA - MÓDULO II,Saúde
+36,Noturno,Solteiro(a),Masculino,2019-08-12,Motivo de Viagens,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - II MÓDULO,Design
+37,Noturno,Casado(a),Masculino,2019-08-12,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - IV MÓDULO,Informática
+38,Noturno,Casado(a),Masculino,2019-08-12,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - IV MÓDULO,Informática
+39,Noturno,Solteiro(a),Feminino,2019-08-09,Outros Motivos,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - II MÓDULO,Design
+40,Noturno,Solteiro(a),Feminino,2019-08-09,Outros Motivos,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - II MÓDULO,Design
+41,Noturno,Solteiro(a),Masculino,2019-07-26,Motivo de Estudo,SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - II MÓDULO,Informática
+42,Noturno,Casado(a),Feminino,2019-07-13,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - II MÓDULO,Gestäo
+43,Noturno,Solteiro(a),Feminino,2019-05-30,Motivo de Saúde,CURSO SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - I MÓDULO,Gestäo
+44,Noturno,Solteiro(a),Feminino,2019-05-28,Não se identificou com o curso,CURSO SUPERIOR DE TECNOLOGIA EM ESTÉTICA E COSMÉTICA - MÓDULO I,Saúde
+45,Noturno,Solteiro(a),Masculino,2019-05-17,Não se identificou com o curso,Superior de Tecnologia em Análise e Desenvolvimento de Sistemas - Módulo I,Informática
+46,Noturno,Solteiro(a),Masculino,2019-05-13,Não se identificou com o curso,Superior de Tecnologia em Análise e Desenvolvimento de Sistemas - Módulo I,Informática
+47,Noturno,Solteiro(a),Masculino,2019-05-02,Outros Motivos,SUPERIOR DE TECNOLOGIA EM JOGOS DIGITAIS - II MÓDULO,Informática
+48,Noturno,Solteiro(a),Masculino,2019-05-02,Outros Motivos,SUPERIOR DE TECNOLOGIA EM JOGOS DIGITAIS - II MÓDULO,Informática
+49,Noturno,Solteiro(a),Masculino,2019-04-30,Outros Motivos,Superior de Tecnologia em Segurança da Informação - I Módulo,Informática
+50,Noturno,Casado(a),Masculino,2019-04-30,Motivo de Viagens,Superior de Tecnologia em Segurança da Informação - I Módulo,Informática
+51,Matutino,Solteiro(a),Masculino,2019-04-29,Motivo de Saúde,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - I MÓDULO,Design
+52,Noturno,Casado(a),Feminino,2019-04-24,Adiamento da Programação,CURSO SUPERIOR DE TECNOLOGIA EM ESTÉTICA E COSMÉTICA - MÓDULO I,Saúde
+53,Noturno,Solteiro(a),Masculino,2019-04-24,Motivo de Trabalho,Superior de Tecnologia em Análise e Desenvolvimento de Sistemas - Módulo I,Informática
+54,Noturno,Casado(a),Masculino,2019-04-23,Não se identificou com o curso,Superior de Tecnologia em Análise e Desenvolvimento de Sistemas - Módulo I,Informática
+55,Noturno,Solteiro(a),Masculino,2019-04-23,Não se identificou com o curso,Superior de Tecnologia em Análise e Desenvolvimento de Sistemas - Módulo I,Informática
+56,Noturno,Solteiro(a),Masculino,2019-04-22,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM LOGÍSTICA - MÓDULO I,Gestäo
+57,Noturno,Solteiro(a),Masculino,2019-04-17,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - V MÓDULO,Informática
+58,Noturno,Solteiro(a),Masculino,2019-04-11,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS - MÓDULO III,Informática
+59,Matutino,Solteiro(a),Masculino,2019-04-10,Mudança de Município,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - III MÓDULO,Design
+60,Noturno,Casado(a),Masculino,2019-04-09,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - I MÓDULO,Design
+61,Noturno,Outros,Masculino,2019-04-09,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - III MÓDULO ,Informática
+62,Noturno,Solteiro(a),Feminino,2019-04-05,Outros Motivos,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - V MÓDULO,Design
+63,Noturno,Solteiro(a),Feminino,2019-04-04,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - I MÓDULO,Gestäo
+64,Noturno,Solteiro(a),Feminino,2019-04-03,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - I MÓDULO,Gestäo
+65,Noturno,Solteiro(a),Masculino,2019-04-02,Dificuldades Financeiras,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+66,Noturno,Solteiro(a),Masculino,2019-04-01,Dificuldades Financeiras,CURSO SUPERIOR DE TECNOLOGIA EM LOGÍSTICA - MÓDULO I,Gestäo
+67,Noturno,Solteiro(a),Masculino,2019-04-01,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS - MÓDULO III,Informática
+68,Noturno,Solteiro(a),Masculino,2019-04-01,Mudança de Município,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - I MÓDULO,Design
+69,Noturno,Solteiro(a),Masculino,2019-04-01,Dificuldades Financeiras,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+70,Noturno,Casado(a),Masculino,2019-03-30,Outros Motivos,CURSO SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - I MÓDULO,Gestäo
+71,Noturno,Casado(a),Masculino,2019-03-30,Outros Motivos,CURSO SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - I MÓDULO,Gestäo
+72,Noturno,Solteiro(a),Masculino,2019-03-26,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - I MÓDULO,Gestäo
+73,Noturno,Solteiro(a),Masculino,2019-03-26,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - I MÓDULO,Gestäo
+74,Matutino,Solteiro(a),Masculino,2019-03-26,Motivo de Estudo,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - I MÓDULO - VN,Design
+75,Matutino,Solteiro(a),Masculino,2019-03-26,Motivo de Estudo,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - I MÓDULO - VN,Design
+76,Noturno,Solteiro(a),Masculino,2019-03-23,Incompatibilidade de horário,CURSO SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - I MÓDULO,Gestäo
+77,Noturno,Solteiro(a),Masculino,2019-03-23,Motivo de Trabalho,Superior de Tecnologia em Análise e Desenvolvimento de Sistemas - Módulo I,Informática
+78,Matutino,Solteiro(a),Feminino,2019-03-22,Cancelamento da Programação,CURSO SUPERIOR DE TECNOLOGIA EM ESTÉTICA E COSMÉTICA - MÓDULO I,Saúde
+79,Matutino,Solteiro(a),Feminino,2019-03-22,Cancelamento da Programação,CURSO SUPERIOR DE TECNOLOGIA EM ESTÉTICA E COSMÉTICA - MÓDULO I,Saúde
+80,Noturno,Solteiro(a),Masculino,2019-03-22,Motivo de Trabalho,Superior de Tecnologia em Análise e Desenvolvimento de Sistemas - Módulo I,Informática
+81,Noturno,Casado(a),Masculino,2019-03-22,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS - MÓDULO III,Informática
+82,Noturno,Solteiro(a),Masculino,2019-03-21,Incompatibilidade de horário,CURSO SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - I MÓDULO,Gestäo
+83,Noturno,Solteiro(a),Masculino,2019-03-21,Não se identificou com o curso,Superior de Tecnologia em Análise e Desenvolvimento de Sistemas - Módulo I,Informática
+84,Noturno,Solteiro(a),Masculino,2019-03-20,Não se identificou com o curso,Superior de Tecnologia em Análise e Desenvolvimento de Sistemas - Módulo I,Informática
+85,Noturno,Casado(a),Feminino,2019-03-20,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - II MÓDULO,Gestäo
+86,Noturno,Solteiro(a),Feminino,2019-03-19,Outros Motivos,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - I MÓDULO,Design
+87,Noturno,Solteiro(a),Feminino,2019-03-19,Outros Motivos,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - I MÓDULO,Design
+88,Noturno,Solteiro(a),Masculino,2019-03-19,Não se identificou com o curso,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+89,Noturno,Solteiro(a),Masculino,2019-03-18,Não se identificou com o curso,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+90,Noturno,Solteiro(a),Masculino,2019-03-11,Outros Motivos,Superior de Tecnologia em Análise e Desenvolvimento de Sistemas - Módulo I,Informática
+91,Noturno,Casado(a),Masculino,2019-03-11,Motivo de Estudo,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - I MÓDULO,Design
+92,Noturno,Casado(a),Masculino,2019-03-11,Motivo de Estudo,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - I MÓDULO,Design
+93,Noturno,Solteiro(a),Masculino,2019-03-08,Outros Motivos,Superior de Tecnologia em Análise e Desenvolvimento de Sistemas - Módulo I,Informática
+94,Noturno,Solteiro(a),Masculino,2019-03-08,Motivo de Trabalho,Superior de Tecnologia em Análise e Desenvolvimento de Sistemas - Módulo I,Informática
+95,Noturno,Solteiro(a),Masculino,2019-03-08,Motivo de Trabalho,Superior de Tecnologia em Análise e Desenvolvimento de Sistemas - Módulo I,Informática
+96,Noturno,Solteiro(a),Masculino,2019-03-08,Outros Motivos,Superior de Tecnologia em Segurança da Informação - I Módulo,Informática
+97,Noturno,Solteiro(a),Masculino,2019-03-07,Outros Motivos,Superior de Tecnologia em Segurança da Informação - I Módulo,Informática
+98,Noturno,Solteiro(a),Masculino,2019-03-06,Outros Motivos,Superior de Tecnologia em Análise e Desenvolvimento de Sistemas - Módulo I,Informática
+99,Matutino,Solteiro(a),Feminino,2019-03-02,Cancelamento da Programação,Curso Superior de Tecnologia em Fotografia - I Módulo ,Artes
+100,Matutino,Solteiro(a),Feminino,2019-02-28,Cancelamento da Programação,Curso Superior de Tecnologia em Fotografia - I Módulo ,Artes
+101,Matutino,Solteiro(a),Feminino,2019-02-28,Cancelamento da Programação,Curso Superior de Tecnologia em Fotografia - I Módulo ,Artes
+102,Noturno,Solteiro(a),Masculino,2019-02-28,Motivo de Estudo,Superior de Tecnologia em Análise e Desenvolvimento de Sistemas - Módulo I,Informática
+103,Noturno,Solteiro(a),Masculino,2019-02-28,Motivo de Trabalho,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+104,Noturno,Casado(a),Masculino,2019-02-27,Cancelamento da Programação,Curso Superior de Tecnologia em Fotografia - I Módulo ,Artes
+105,Noturno,Casado(a),Masculino,2019-02-27,Cancelamento da Programação,Curso Superior de Tecnologia em Fotografia - I Módulo ,Artes
+106,Noturno,Solteiro(a),Masculino,2019-02-27,Motivo de Trabalho,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+107,Noturno,Divorciado(a),Masculino,2019-02-26,Cancelamento da Programação,Curso Superior de Tecnologia em Fotografia - I Módulo ,Artes
+108,Matutino,Solteiro(a),Masculino,2019-02-26,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - I MÓDULO - VN,Design
+109,Matutino,Solteiro(a),Masculino,2019-02-26,Não se identificou com o curso,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO I - VN,Informática
+110,Matutino,Solteiro(a),Masculino,2019-02-26,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO I - VN,Informática
+111,Noturno,Solteiro(a),Masculino,2019-02-26,Distância / meio de transporte,Superior de Tecnologia em Segurança da Informação - I Módulo,Informática
+112,Matutino,Solteiro(a),Masculino,2019-02-25,Cancelamento da Programação,Curso Superior de Tecnologia em Fotografia - I Módulo ,Artes
+113,Noturno,Divorciado(a),Masculino,2019-02-25,Cancelamento da Programação,Curso Superior de Tecnologia em Fotografia - I Módulo ,Artes
+114,Noturno,Casado(a),Masculino,2019-02-25,Cancelamento de matr¿cula,CURSO SUPERIOR DE TECNOLOGIA EM LOGÍSTICA - MÓDULO I,Gestäo
+115,Matutino,Solteiro(a),Masculino,2019-02-25,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO I - VN,Informática
+116,Matutino,Solteiro(a),Masculino,2019-02-25,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO I - VN,Informática
+117,Matutino,Solteiro(a),Masculino,2019-02-25,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO I - VN,Informática
+118,Matutino,Solteiro(a),Masculino,2019-02-25,Não se identificou com o curso,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO I - VN,Informática
+119,Matutino,Solteiro(a),Masculino,2019-02-25,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO I - VN,Informática
+120,Matutino,Solteiro(a),Masculino,2019-02-25,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO I - VN,Informática
+121,Matutino,Solteiro(a),Masculino,2019-02-25,Cancelamento da Programação,Superior de Tecnologia em Jogos Digitais - I Módulo,Informática
+122,Noturno,Solteiro(a),Masculino,2019-02-25,Distância / meio de transporte,Superior de Tecnologia em Segurança da Informação - I Módulo,Informática
+123,Noturno,Solteiro(a),Masculino,2019-02-25,Outros Motivos,SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - III MÓDULO,Informática
+124,Matutino,Solteiro(a),Feminino,2019-02-22,Cancelamento da Programação,Curso Superior de Tecnologia em Fotografia - I Módulo ,Artes
+125,Matutino,Solteiro(a),Feminino,2019-02-22,Cancelamento da Programação,Curso Superior de Tecnologia em Fotografia - I Módulo ,Artes
+126,Matutino,Solteiro(a),Masculino,2019-02-22,Cancelamento da Programação,Curso Superior de Tecnologia em Fotografia - I Módulo ,Artes
+127,Noturno,Solteiro(a),Masculino,2019-02-22,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM LOGÍSTICA - MÓDULO I,Gestäo
+128,Noturno,Solteiro(a),Masculino,2019-02-22,Motivo de Estudo,Superior de Tecnologia em Análise e Desenvolvimento de Sistemas - Módulo I,Informática
+129,Matutino,Solteiro(a),Masculino,2019-02-22,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - I MÓDULO - VN,Design
+130,Matutino,Solteiro(a),Masculino,2019-02-22,Cancelamento da Programação,Superior de Tecnologia em Jogos Digitais - I Módulo,Informática
+131,Noturno,Divorciado(a),Feminino,2019-02-21,Adiamento da Programação,CURSO SUPERIOR DE TECNOLOGIA EM ESTÉTICA E COSMÉTICA - MÓDULO I,Saúde
+132,Noturno,Solteiro(a),Feminino,2019-02-21,Cancelamento da Programação,Curso Superior de Tecnologia em Fotografia - I Módulo ,Artes
+133,Matutino,Solteiro(a),Masculino,2019-02-21,Cancelamento da Programação,Curso Superior de Tecnologia em Fotografia - I Módulo ,Artes
+134,Matutino,Solteiro(a),Masculino,2019-02-21,Cancelamento da Programação,Curso Superior de Tecnologia em Fotografia - I Módulo ,Artes
+135,Noturno,Divorciado(a),Feminino,2019-02-21,Não se identificou com o curso,CURSO SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - I MÓDULO,Gestäo
+136,Noturno,Solteiro(a),Masculino,2019-02-21,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM LOGÍSTICA - MÓDULO I,Gestäo
+137,Noturno,Solteiro(a),Feminino,2019-02-21,Não se identificou com o curso,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+138,Noturno,Solteiro(a),Masculino,2019-02-21,Não se identificou com o curso,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+139,Noturno,Solteiro(a),Masculino,2019-02-21,Transferência de Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - V MÓDULO,Informática
+140,Noturno,Solteiro(a),Masculino,2019-02-21,Cancelamento da Programação,Superior de Tecnologia em Jogos Digitais - I Módulo,Informática
+141,Noturno,Solteiro(a),Masculino,2019-02-21,Cancelamento da Programação,Superior de Tecnologia em Jogos Digitais - I Módulo,Informática
+142,Noturno,Solteiro(a),Masculino,2019-02-21,Cancelamento da Programação,Superior de Tecnologia em Jogos Digitais - I Módulo,Informática
+143,Noturno,Solteiro(a),Feminino,2019-02-20,Cancelamento da Programação,Curso Superior de Tecnologia em Fotografia - I Módulo ,Artes
+144,Noturno,Solteiro(a),Feminino,2019-02-20,Cancelamento da Programação,Curso Superior de Tecnologia em Fotografia - I Módulo ,Artes
+145,Noturno,Divorciado(a),Feminino,2019-02-20,Não se identificou com o curso,CURSO SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - I MÓDULO,Gestäo
+146,Noturno,Solteiro(a),Masculino,2019-02-20,Cancelamento da Programação,Superior de Tecnologia em Jogos Digitais - I Módulo,Informática
+147,Noturno,Solteiro(a),Masculino,2019-02-20,Cancelamento da Programação,Superior de Tecnologia em Jogos Digitais - I Módulo,Informática
+148,Noturno,Divorciado(a),Feminino,2019-02-19,Adiamento da Programação,CURSO SUPERIOR DE TECNOLOGIA EM ESTÉTICA E COSMÉTICA - MÓDULO I,Saúde
+149,Noturno,Solteiro(a),Feminino,2019-02-19,Não se identificou com o curso,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+150,Noturno,Solteiro(a),Masculino,2019-02-19,Não se identificou com o curso,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+151,Noturno,Solteiro(a),Masculino,2019-02-19,Transferência de Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - V MÓDULO,Informática
+152,Noturno,Solteiro(a),Masculino,2019-02-19,Cancelamento da Programação,Superior de Tecnologia em Jogos Digitais - I Módulo,Informática
+153,Noturno,Solteiro(a),Feminino,2019-02-18,Cancelamento da Programação,Curso Superior de Tecnologia em Fotografia - I Módulo ,Artes
+154,Matutino,Solteiro(a),Feminino,2019-02-18,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - I MÓDULO - VN,Design
+155,Matutino,Solteiro(a),Feminino,2019-02-18,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - I MÓDULO - VN,Design
+156,Noturno,Casado(a),Masculino,2019-02-18,Outros Motivos,SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - IV MÓDULO,Informática
+157,Noturno,Solteiro(a),Masculino,2019-02-13,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS - MÓDULO II,Informática
+158,Noturno,Solteiro(a),Masculino,2019-02-13,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - II MÓDULO,Gestäo
+159,Noturno,Casado(a),Feminino,2019-02-12,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - II MÓDULO,Gestäo
+160,Matutino,Solteiro(a),Masculino,2019-02-11,Outros Motivos,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - III MÓDULO,Design
+161,Noturno,Solteiro(a),Masculino,2019-02-11,Outros Motivos,SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - V MÓDULO,Informática
+162,Noturno,Solteiro(a),Masculino,2019-02-07,Motivo de Estudo,SUPERIOR DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS - MÓDULO III,Informática
+163,Noturno,Solteiro(a),Feminino,2019-02-01,Mudança de Município,SUPERIOR DE TECNOLOGIA EM JOGOS DIGITAIS - II MÓDULO,Informática
+164,Noturno,Solteiro(a),Feminino,2019-01-28,Mudança de Município,SUPERIOR DE TECNOLOGIA EM JOGOS DIGITAIS - II MÓDULO,Informática
+165,Noturno,Solteiro(a),Masculino,2019-01-28,Motivo de Estudo,SUPERIOR DE TECNOLOGIA EM JOGOS DIGITAIS - II MÓDULO,Informática
+166,Noturno,Solteiro(a),Masculino,2019-01-23,Motivo de Estudo,SUPERIOR DE TECNOLOGIA EM JOGOS DIGITAIS - II MÓDULO,Informática
+167,Matutino,Solteiro(a),Masculino,2019-01-08,Outros Motivos,Superior de Tecnologia em Gestão da Tecnologia da Informação - I Módulo,Informática
+168,Noturno,Solteiro(a),Masculino,2018-12-03,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - II MÓDULO,Gestäo
+169,Noturno,Solteiro(a),Masculino,2018-11-30,Motivo de Estudo,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - IV MÓDULO,Informática
+170,Noturno,Solteiro(a),Masculino,2018-11-29,Motivo de Trabalho,Superior de Tecnologia em Jogos Digitais - I Módulo,Informática
+171,Noturno,Casado(a),Masculino,2018-11-21,Outros Motivos,Superior de Tecnologia em Jogos Digitais - I Módulo,Informática
+172,Noturno,Solteiro(a),Masculino,2018-11-07,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - IV MÓDULO,Informática
+173,Noturno,Solteiro(a),Masculino,2018-10-31,Outros Motivos,CURSO SUPERIOR DE TECNOLOGIA EM LOGÍSTICA - MÓDULO II,Gestäo
+174,Noturno,Solteiro(a),Feminino,2018-10-30,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - II MÓDULO,Design
+175,Matutino,Solteiro(a),Feminino,2018-10-29,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - II MÓDULO,Design
+176,Noturno,Solteiro(a),Masculino,2018-10-22,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM LOGÍSTICA - MÓDULO II,Gestäo
+177,Noturno,Solteiro(a),Masculino,2018-10-13,Outros Motivos,Superior de Tecnologia em Análise e Desenvolvimento de Sistemas - Módulo I,Informática
+178,Noturno,Solteiro(a),Masculino,2018-10-10,Motivo de Trabalho,Superior de Tecnologia em Análise e Desenvolvimento de Sistemas - Módulo I,Informática
+179,Noturno,Solteiro(a),Masculino,2018-10-08,Outros Motivos,Superior de Tecnologia em Análise e Desenvolvimento de Sistemas - Módulo I,Informática
+180,Noturno,Solteiro(a),Masculino,2018-10-08,Outros Motivos,SUPERIOR DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS - MÓDULO II,Informática
+181,Noturno,Solteiro(a),Masculino,2018-10-08,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - II MÓDULO,Gestäo
+182,Matutino,Solteiro(a),Masculino,2018-10-08,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - III MÓDULO ,Informática
+183,Noturno,Solteiro(a),Masculino,2018-10-05,Não se identificou com o curso,Superior de Tecnologia em Análise e Desenvolvimento de Sistemas - Módulo I,Informática
+184,Matutino,Solteiro(a),Masculino,2018-10-02,Motivo de Trabalho,Superior de Tecnologia em Análise e Desenvolvimento de Sistemas - Módulo I,Informática
+185,Noturno,Solteiro(a),Masculino,2018-10-02,Não se identificou com o curso,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - II MÓDULO,Gestäo
+186,Noturno,Solteiro(a),Masculino,2018-10-02,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - IV MÓDULO,Informática
+187,Matutino,Solteiro(a),Masculino,2018-10-02,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO V,Informática
+188,Matutino,Solteiro(a),Masculino,2018-09-28,Não se identificou com o curso,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - III MÓDULO ,Informática
+189,Matutino,Solteiro(a),Masculino,2018-09-27,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - IV MÓDULO,Informática
+190,Matutino,Solteiro(a),Masculino,2018-09-25,Motivo de Saúde,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO V,Informática
+191,Noturno,Solteiro(a),Feminino,2018-09-24,Motivo de Saúde,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - II MÓDULO,Design
+192,Matutino,Casado(a),Feminino,2018-09-21,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - II MÓDULO,Design
+193,Noturno,Casado(a),Masculino,2018-09-19,Não se identificou com o curso,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - II MÓDULO,Design
+194,Matutino,Solteiro(a),Masculino,2018-09-19,Cancelamento da Programação,Superior de Tecnologia em Gestão da Tecnologia da Informação - I Módulo,Informática
+195,Matutino,Solteiro(a),Masculino,2018-09-19,Cancelamento da Programação,Superior de Tecnologia em Gestão da Tecnologia da Informação - I Módulo,Informática
+196,Noturno,Solteiro(a),Masculino,2018-09-19,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - IV MÓDULO,Informática
+197,Noturno,Solteiro(a),Masculino,2018-09-17,Não se identificou com o curso,Superior de Tecnologia em Jogos Digitais - I Módulo,Informática
+198,Noturno,Casado(a),Masculino,2018-09-14,Distância / meio de transporte,SUPERIOR DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS - MÓDULO II,Informática
+199,Noturno,Solteiro(a),Masculino,2018-09-14,Motivo de Estudo,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - IV MÓDULO,Informática
+200,Noturno,Solteiro(a),Masculino,2018-09-13,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - II MÓDULO ,Informática
+201,Noturno,Casado(a),Masculino,2018-09-12,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS - MÓDULO II,Informática
+202,Noturno,Solteiro(a),Masculino,2018-09-12,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - II MÓDULO ,Informática
+203,Noturno,Casado(a),Masculino,2018-09-12,Motivo de Viagens,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - II MÓDULO ,Informática
+204,Matutino,Solteiro(a),Masculino,2018-09-12,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - IV MÓDULO,Informática
+205,Noturno,Casado(a),Masculino,2018-09-11,Motivo de Viagens,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - II MÓDULO ,Informática
+206,Noturno,Casado(a),Masculino,2018-09-06,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS - MÓDULO II,Informática
+207,Noturno,Solteiro(a),Feminino,2018-09-03,Cancelamento da Programação,Curso Superior de Tecnologia em Estética e Cosmética - Módulo I,Saúde
+208,Noturno,Solteiro(a),Masculino,2018-09-03,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - II MÓDULO ,Informática
+209,Matutino,Solteiro(a),Masculino,2018-09-03,Cancelamento da Programação,Superior de Tecnologia em Segurança da Informação - I Módulo,Informática
+210,Noturno,Solteiro(a),Feminino,2018-08-31,Cancelamento da Programação,Curso Superior de Tecnologia em Estética e Cosmética - Módulo I,Saúde
+211,Noturno,Casado(a),Feminino,2018-08-31,Motivo de Saúde,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - II MÓDULO,Gestäo
+212,Noturno,Casado(a),Masculino,2018-08-31,Cancelamento da Programação,Superior de Tecnologia em Gestão da Tecnologia da Informação - I Módulo,Informática
+213,Noturno,Solteiro(a),Masculino,2018-08-31,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - II MÓDULO ,Informática
+214,Noturno,Solteiro(a),Masculino,2018-08-31,Não se identificou com o curso,SUPERIOR DE TECNOLOGIA EM JOGOS DIGITAIS - I MÓDULO,Informática
+215,Matutino,Solteiro(a),Masculino,2018-08-31,Cancelamento da Programação,Superior de Tecnologia em Segurança da Informação - I Módulo,Informática
+216,Matutino,Casado(a),Masculino,2018-08-30,Transferência de Programação,Superior de Tecnologia em Análise e Desenvolvimento de Sistemas - Módulo I,Informática
+217,Noturno,Solteiro(a),Feminino,2018-08-29,Cancelamento da Programação,Curso Superior de Tecnologia em Estética e Cosmética - Módulo I,Saúde
+218,Noturno,Solteiro(a),Feminino,2018-08-29,Cancelamento da Programação,Curso Superior de Tecnologia em Estética e Cosmética - Módulo I,Saúde
+219,Matutino,Solteiro(a),Feminino,2018-08-29,Cancelamento da Programação,Curso Superior de Tecnologia em Estética e Cosmética - Módulo I,Saúde
+220,Noturno,Casado(a),Feminino,2018-08-29,Cancelamento da Programação,Curso Superior de Tecnologia em Estética e Cosmética - Módulo I,Saúde
+221,Matutino,Solteiro(a),Feminino,2018-08-29,Cancelamento da Programação,Curso Superior de Tecnologia em Estética e Cosmética - Módulo I,Saúde
+222,Noturno,Solteiro(a),Feminino,2018-08-29,Cancelamento da Programação,Curso Superior de Tecnologia em Estética e Cosmética - Módulo I,Saúde
+223,Noturno,Casado(a),Feminino,2018-08-29,Cancelamento da Programação,Curso Superior de Tecnologia em Estética e Cosmética - Módulo I,Saúde
+224,Noturno,Solteiro(a),Masculino,2018-08-29,Cancelamento da Programação,Curso Superior de Tecnologia em Logística - Módulo I,Gestäo
+225,Noturno,Solteiro(a),Masculino,2018-08-29,Cancelamento da Programação,Superior de Tecnologia em Gestão da Tecnologia da Informação - I Módulo,Informática
+226,Noturno,Casado(a),Masculino,2018-08-29,Cancelamento da Programação,Superior de Tecnologia em Gestão da Tecnologia da Informação - I Módulo,Informática
+227,Matutino,Solteiro(a),Masculino,2018-08-29,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO V,Informática
+228,Noturno,Solteiro(a),Masculino,2018-08-29,Não se identificou com o curso,SUPERIOR DE TECNOLOGIA EM JOGOS DIGITAIS - I MÓDULO,Informática
+229,Matutino,Casado(a),Masculino,2018-08-29,Cancelamento da Programação,Superior de Tecnologia em Segurança da Informação - I Módulo,Informática
+230,Noturno,Solteiro(a),Feminino,2018-08-28,Cancelamento da Programação,Curso Superior de Tecnologia em Estética e Cosmética - Módulo I,Saúde
+231,Matutino,Solteiro(a),Feminino,2018-08-28,Cancelamento da Programação,Curso Superior de Tecnologia em Estética e Cosmética - Módulo I,Saúde
+232,Noturno,Solteiro(a),Feminino,2018-08-28,Cancelamento da Programação,Curso Superior de Tecnologia em Estética e Cosmética - Módulo I,Saúde
+233,Noturno,Solteiro(a),Masculino,2018-08-28,Motivo de Viagens,SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO V,Informática
+234,Noturno,Casado(a),Feminino,2018-08-27,Cancelamento da Programação,Curso Superior de Tecnologia em Estética e Cosmética - Módulo I,Saúde
+235,Noturno,Solteiro(a),Feminino,2018-08-27,Cancelamento da Programação,Curso Superior de Tecnologia em Estética e Cosmética - Módulo I,Saúde
+236,Matutino,Solteiro(a),Feminino,2018-08-27,Cancelamento da Programação,Curso Superior de Tecnologia em Estética e Cosmética - Módulo I,Saúde
+237,Noturno,Casado(a),Feminino,2018-08-27,Cancelamento da Programação,Curso Superior de Tecnologia em Estética e Cosmética - Módulo I,Saúde
+238,Noturno,Solteiro(a),Masculino,2018-08-27,Cancelamento da Programação,Superior de Tecnologia em Gestão da Tecnologia da Informação - I Módulo,Informática
+239,Matutino,Casado(a),Masculino,2018-08-27,Cancelamento da Programação,Superior de Tecnologia em Segurança da Informação - I Módulo,Informática
+240,Noturno,Solteiro(a),Masculino,2018-08-24,Cancelamento da Programação,Curso Superior de Tecnologia em Logística - Módulo I,Gestäo
+241,Noturno,Solteiro(a),Feminino,2018-08-24,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - IV MÓDULO,Informática
+242,Noturno,Solteiro(a),Masculino,2018-08-21,Dificuldades Financeiras,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - II MÓDULO,Design
+243,Matutino,Solteiro(a),Masculino,2018-08-20,Dificuldades Financeiras,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - III MÓDULO ,Informática
+244,Noturno,Solteiro(a),Masculino,2018-08-20,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - IV MÓDULO,Informática
+245,Noturno,Solteiro(a),Masculino,2018-08-17,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - IV MÓDULO,Informática
+246,Noturno,Solteiro(a),Masculino,2018-08-14,Motivo de Trabalho,Curso Superior de Tecnologia em Gestão Comercial - I Módulo,Gestäo
+247,Noturno,Solteiro(a),Feminino,2018-08-14,Motivo de Viagens,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - II MÓDULO,Gestäo
+248,Noturno,Solteiro(a),Masculino,2018-08-13,Motivo de Trabalho,Curso Superior de Tecnologia em Gestão Comercial - I Módulo,Gestäo
+249,Noturno,Solteiro(a),Feminino,2018-08-13,Motivo de Viagens,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - II MÓDULO,Gestäo
+250,Noturno,Solteiro(a),Masculino,2018-08-08,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - II MÓDULO,Gestäo
+251,Matutino,Solteiro(a),Masculino,2018-08-02,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO V,Informática
+252,Noturno,Solteiro(a),Masculino,2018-08-01,Outros Motivos,SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - IV MÓDULO,Informática
+253,Noturno,Solteiro(a),Masculino,2018-07-31,Outros Motivos,SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - IV MÓDULO,Informática
+254,Noturno,Solteiro(a),Feminino,2018-07-20,Outros Motivos,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - IV MÓDULO,Design
+255,Noturno,Solteiro(a),Masculino,2018-07-18,Motivo de Saúde,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - II MÓDULO ,Informática
+256,Matutino,Solteiro(a),Masculino,2018-06-21,Motivo de Estudo,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - III MÓDULO,Design
+257,Noturno,Solteiro(a),Feminino,2018-06-14,Motivo de Saúde,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - I MÓDULO,Informática
+258,Matutino,Solteiro(a),Feminino,2018-06-04,Motivo de Saúde,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO IV,Informática
+259,Matutino,Casado(a),Masculino,2018-05-30,Não se identificou com o curso,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - II MÓDULO ,Informática
+260,Noturno,Solteiro(a),Masculino,2018-05-29,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - III MÓDULO ,Informática
+261,Noturno,Solteiro(a),Masculino,2018-05-28,Motivo de Saúde,SUPERIOR DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS - MÓDULO I,Informática
+262,Noturno,Solteiro(a),Masculino,2018-05-17,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - III MÓDULO,Informática
+263,Noturno,Solteiro(a),Masculino,2018-05-16,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - I MÓDULO,Informática
+264,Noturno,Divorciado(a),Masculino,2018-05-15,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS - MÓDULO I,Informática
+265,Noturno,Solteiro(a),Masculino,2018-05-10,Não se identificou com o curso,CURSO SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - I MÓDULO,Gestäo
+266,Noturno,Solteiro(a),Feminino,2018-05-08,Não se adaptou a metodologia,CURSO SUPERIOR DE TECNOLOGIA EM LOGÍSTICA - MÓDULO I,Gestäo
+267,Noturno,Solteiro(a),Masculino,2018-04-30,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS - MÓDULO I,Informática
+268,Matutino,Solteiro(a),Masculino,2018-04-26,Motivo de Viagens,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - II MÓDULO ,Informática
+269,Noturno,Solteiro(a),Masculino,2018-04-25,Dificuldades Financeiras,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - I MÓDULO,Informática
+270,Noturno,Casado(a),Masculino,2018-04-23,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - I MÓDULO,Gestäo
+271,Noturno,Solteiro(a),Masculino,2018-04-23,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS - MÓDULO I,Informática
+272,Noturno,Solteiro(a),Masculino,2018-04-23,Motivo de Saúde,SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - III MÓDULO,Informática
+273,Noturno,Solteiro(a),Masculino,2018-04-20,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - I MÓDULO,Design
+274,Noturno,Solteiro(a),Masculino,2018-04-19,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - I MÓDULO,Design
+275,Noturno,Solteiro(a),Feminino,2018-04-18,Dificuldades Financeiras,CURSO SUPERIOR DE TECNOLOGIA EM LOGÍSTICA - MÓDULO I,Gestäo
+276,Noturno,Solteiro(a),Masculino,2018-04-18,Abandono sem Justificativa,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - III MÓDULO ,Informática
+277,Noturno,Solteiro(a),Masculino,2018-04-16,Dificuldades Financeiras,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - I MÓDULO,Informática
+278,Matutino,Solteiro(a),Feminino,2018-04-12,Dificuldades Financeiras,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - III MÓDULO,Design
+279,Matutino,Solteiro(a),Masculino,2018-04-11,Dificuldades Financeiras,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - III MÓDULO,Design
+280,Noturno,Casado(a),Masculino,2018-04-10,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM LOGÍSTICA - MÓDULO I,Gestäo
+281,Noturno,Solteiro(a),Masculino,2018-04-10,Motivo de Saúde,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - III MÓDULO ,Informática
+282,Noturno,Casado(a),Masculino,2018-04-09,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM LOGÍSTICA - MÓDULO I,Gestäo
+283,Noturno,Solteiro(a),Feminino,2018-04-09,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS - MÓDULO I,Informática
+284,Noturno,Casado(a),Feminino,2018-04-09,Dificuldades Financeiras,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - I MÓDULO,Design
+285,Noturno,Casado(a),Feminino,2018-04-09,Dificuldades Financeiras,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - I MÓDULO,Design
+286,Matutino,Solteiro(a),Masculino,2018-04-09,Dificuldades Financeiras,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - III MÓDULO,Design
+287,Noturno,União Estável,Masculino,2018-04-06,Dificuldades Financeiras,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - I MÓDULO,Informática
+288,Matutino,Casado(a),Masculino,2018-04-06,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO IV,Informática
+289,Noturno,Casado(a),Masculino,2018-04-05,Outros Motivos,CURSO SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - I MÓDULO,Gestäo
+290,Noturno,Solteiro(a),Masculino,2018-04-04,Não se adaptou a metodologia,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - I MÓDULO,Informática
+291,Noturno,Solteiro(a),Masculino,2018-04-04,Não se adaptou a metodologia,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - I MÓDULO,Informática
+292,Noturno,Solteiro(a),Masculino,2018-04-04,Não se adaptou a metodologia,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - I MÓDULO,Informática
+293,Noturno,Solteiro(a),Masculino,2018-04-04,Não se adaptou a metodologia,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - I MÓDULO,Informática
+294,Noturno,Solteiro(a),Masculino,2018-04-03,Não se adaptou a metodologia,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - I MÓDULO,Informática
+295,Noturno,Solteiro(a),Masculino,2018-04-03,Não se adaptou a metodologia,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - I MÓDULO,Informática
+296,Noturno,Solteiro(a),Masculino,2018-04-02,Não se identificou com o curso,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - I MÓDULO,Informática
+297,Noturno,Solteiro(a),Masculino,2018-04-02,Não se identificou com o curso,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - I MÓDULO,Informática
+298,Noturno,Casado(a),Masculino,2018-04-02,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - I MÓDULO,Informática
+299,Noturno,Solteiro(a),Masculino,2018-04-02,Outros Motivos,SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO IV,Informática
+300,Noturno,Solteiro(a),Feminino,2018-03-28,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - I MÓDULO,Gestäo
+301,Noturno,Solteiro(a),Feminino,2018-03-27,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - I MÓDULO,Gestäo
+302,Noturno,Solteiro(a),Masculino,2018-03-27,Não se adaptou a metodologia,SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - III MÓDULO,Informática
+303,Noturno,Solteiro(a),Masculino,2018-03-26,Motivo de Saúde,CURSO SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - I MÓDULO,Gestäo
+304,Noturno,Solteiro(a),Masculino,2018-03-22,Outros Motivos,SUPERIOR DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS - MÓDULO I,Informática
+305,Noturno,Solteiro(a),Masculino,2018-03-22,Outros Motivos,SUPERIOR DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS - MÓDULO I,Informática
+306,Noturno,Solteiro(a),Masculino,2018-03-22,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO V,Informática
+307,Matutino,Solteiro(a),Masculino,2018-03-21,Motivo de Saúde,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - III MÓDULO,Design
+308,Noturno,Solteiro(a),Masculino,2018-03-20,Dificuldades Financeiras,CURSO SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - I MÓDULO,Gestäo
+309,Noturno,Solteiro(a),Masculino,2018-03-19,Dificuldades Financeiras,CURSO SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - I MÓDULO,Gestäo
+310,Noturno,Solteiro(a),Masculino,2018-03-19,Outros Motivos,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - III MÓDULO,Design
+311,Noturno,Solteiro(a),Masculino,2018-03-17,Outros Motivos,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - III MÓDULO,Design
+312,Matutino,Solteiro(a),Masculino,2018-03-13,Dificuldades Financeiras,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - II MÓDULO ,Informática
+313,Noturno,Casado(a),Masculino,2018-03-12,Outros Motivos,SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - III MÓDULO,Informática
+314,Noturno,Solteiro(a),Masculino,2018-03-10,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM LOGÍSTICA - MÓDULO I,Gestäo
+315,Noturno,Solteiro(a),Masculino,2018-03-10,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM LOGÍSTICA - MÓDULO I,Gestäo
+316,Noturno,Solteiro(a),Masculino,2018-03-08,Outros Motivos,SUPERIOR DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS - MÓDULO I,Informática
+317,Noturno,Solteiro(a),Masculino,2018-03-07,Outros Motivos,SUPERIOR DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS - MÓDULO I,Informática
+318,Noturno,Solteiro(a),Masculino,2018-03-06,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - I MÓDULO,Informática
+319,Noturno,Solteiro(a),Masculino,2018-03-06,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - I MÓDULO,Informática
+320,Noturno,Solteiro(a),Feminino,2018-03-01,Não se identificou com o curso,SUPERIOR DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS - MÓDULO I,Informática
+321,Noturno,Solteiro(a),Feminino,2018-03-01,Não se identificou com o curso,SUPERIOR DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS - MÓDULO I,Informática
+322,Noturno,Solteiro(a),Feminino,2018-02-28,Motivo de Viagens,CURSO SUPERIOR DE TECNOLOGIA EM LOGÍSTICA - MÓDULO I,Gestäo
+323,Noturno,Solteiro(a),Feminino,2018-02-28,Motivo de Viagens,CURSO SUPERIOR DE TECNOLOGIA EM LOGÍSTICA - MÓDULO I,Gestäo
+324,Matutino,Solteiro(a),Masculino,2018-02-28,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS - MÓDULO I,Informática
+325,Noturno,Solteiro(a),Masculino,2018-02-28,Mudança de Município,SUPERIOR DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS - MÓDULO I,Informática
+326,Matutino,Solteiro(a),Masculino,2018-02-28,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - III MÓDULO,Design
+327,Noturno,Solteiro(a),Masculino,2018-02-28,Cancelamento da Programação,Superior de Tecnologia em Gestão da Tecnologia da Informação - I Módulo,Informática
+328,Noturno,Solteiro(a),Masculino,2018-02-28,Cancelamento da Programação,Superior de Tecnologia em Gestão da Tecnologia da Informação - I Módulo,Informática
+329,Noturno,Solteiro(a),Masculino,2018-02-28,Cancelamento da Programação,Superior de Tecnologia em Gestão da Tecnologia da Informação - I Módulo,Informática
+330,Matutino,Casado(a),Masculino,2018-02-28,Cancelamento da Programação,Superior de Tecnologia em Jogos Digitais - I Módulo,Informática
+331,Matutino,Solteiro(a),Masculino,2018-02-28,Cancelamento da Programação,Superior de Tecnologia em Jogos Digitais - I Módulo,Informática
+332,Matutino,Solteiro(a),Masculino,2018-02-28,Cancelamento da Programação,Superior de Tecnologia em Jogos Digitais - I Módulo,Informática
+333,Noturno,Solteiro(a),Masculino,2018-02-28,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - I MÓDULO,Informática
+334,Noturno,Solteiro(a),Masculino,2018-02-28,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - I MÓDULO,Informática
+335,Noturno,Solteiro(a),Feminino,2018-02-27,Cancelamento da Programação,CURSO SUPERIOR DE TECNOLOGIA EM ESTÉTICA E COSMÉTICA - MÓDULO I,Saúde
+336,Matutino,Solteiro(a),Masculino,2018-02-27,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS - MÓDULO I,Informática
+337,Matutino,Solteiro(a),Masculino,2018-02-27,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS - MÓDULO I,Informática
+338,Noturno,Solteiro(a),Masculino,2018-02-27,Mudança de Município,SUPERIOR DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS - MÓDULO I,Informática
+339,Noturno,Solteiro(a),Masculino,2018-02-27,Cancelamento da Programação,Superior de Tecnologia em Gestão da Tecnologia da Informação - I Módulo,Informática
+340,Matutino,Casado(a),Masculino,2018-02-27,Cancelamento da Programação,Superior de Tecnologia em Jogos Digitais - I Módulo,Informática
+341,Noturno,Solteiro(a),Feminino,2018-02-26,Cancelamento da Programação,CURSO SUPERIOR DE TECNOLOGIA EM ESTÉTICA E COSMÉTICA - MÓDULO I,Saúde
+342,Noturno,Casado(a),Masculino,2018-02-26,Motivo de Viagens,SUPERIOR DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS - MÓDULO I,Informática
+343,Noturno,Solteiro(a),Masculino,2018-02-26,Motivo de Estudo,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO V,Informática
+344,Noturno,Casado(a),Masculino,2018-02-24,Motivo de Viagens,SUPERIOR DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS - MÓDULO I,Informática
+345,Noturno,Solteiro(a),Masculino,2018-02-23,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - I MÓDULO,Informática
+346,Matutino,Solteiro(a),Masculino,2018-02-23,Motivo de Estudo,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO IV,Informática
+347,Matutino,Solteiro(a),Masculino,2018-02-23,Cancelamento da Programação,Superior de Tecnologia em Jogos Digitais - I Módulo,Informática
+348,Matutino,Solteiro(a),Masculino,2018-02-23,Cancelamento da Programação,Superior de Tecnologia em Jogos Digitais - I Módulo,Informática
+349,Noturno,Solteiro(a),Masculino,2018-02-22,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - I MÓDULO,Design
+350,Noturno,Solteiro(a),Masculino,2018-02-22,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - I MÓDULO,Design
+351,Noturno,Solteiro(a),Masculino,2018-02-22,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - I MÓDULO,Informática
+352,Matutino,Solteiro(a),Feminino,2018-02-22,Cancelamento da Programação,Superior de Tecnologia em Jogos Digitais - I Módulo,Informática
+353,Matutino,Solteiro(a),Feminino,2018-02-22,Cancelamento da Programação,Superior de Tecnologia em Jogos Digitais - I Módulo,Informática
+354,Noturno,Casado(a),Feminino,2018-02-21,Cancelamento da Programação,CURSO SUPERIOR DE TECNOLOGIA EM ESTÉTICA E COSMÉTICA - MÓDULO I,Saúde
+355,Noturno,Casado(a),Feminino,2018-02-21,Cancelamento da Programação,CURSO SUPERIOR DE TECNOLOGIA EM ESTÉTICA E COSMÉTICA - MÓDULO I,Saúde
+356,Matutino,Solteiro(a),Masculino,2018-02-21,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS - MÓDULO I,Informática
+357,Noturno,Solteiro(a),Masculino,2018-02-21,Alteração de Horário,SUPERIOR DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS - MÓDULO I,Informática
+358,Matutino,Solteiro(a),Masculino,2018-02-21,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS - MÓDULO I,Informática
+359,Noturno,Solteiro(a),Masculino,2018-02-21,Alteração de Horário,SUPERIOR DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS - MÓDULO I,Informática
+360,Matutino,Solteiro(a),Masculino,2018-02-21,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS - MÓDULO I,Informática
+361,Matutino,Solteiro(a),Masculino,2018-02-21,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS - MÓDULO I,Informática
+362,Matutino,Solteiro(a),Masculino,2018-02-21,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS - MÓDULO I,Informática
+363,Matutino,Solteiro(a),Masculino,2018-02-21,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS - MÓDULO I,Informática
+364,Matutino,Solteiro(a),Masculino,2018-02-21,Cancelamento da Programação,Superior de Tecnologia em Jogos Digitais - I Módulo,Informática
+365,Matutino,Solteiro(a),Masculino,2018-02-21,Cancelamento da Programação,Superior de Tecnologia em Jogos Digitais - I Módulo,Informática
+366,Noturno,Solteiro(a),Masculino,2018-02-15,Outros Motivos,SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO IV,Informática
+367,Noturno,Solteiro(a),Masculino,2018-02-15,Outros Motivos,SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO IV,Informática
+368,Noturno,Solteiro(a),Masculino,2018-02-09,Outros Motivos,SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - III MÓDULO,Informática
+369,Noturno,Solteiro(a),Masculino,2018-02-09,Outros Motivos,SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - III MÓDULO,Informática
+370,Matutino,Solteiro(a),Masculino,2018-02-07,Outros Motivos,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - III MÓDULO,Design
+371,Matutino,Solteiro(a),Masculino,2018-02-06,Motivo de Viagens,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO IV,Informática
+372,Noturno,Casado(a),Masculino,2018-02-06,Outros Motivos,SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - III MÓDULO,Informática
+373,Noturno,Casado(a),Masculino,2018-02-06,Outros Motivos,SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - III MÓDULO,Informática
+374,Noturno,Solteiro(a),Feminino,2018-01-30,Cancelamento da Programação,CURSO SUPERIOR DE TECNOLOGIA EM FOTOGRAFIA - I MÓDULO ,Artes
+375,Noturno,Solteiro(a),Feminino,2018-01-30,Cancelamento da Programação,CURSO SUPERIOR DE TECNOLOGIA EM FOTOGRAFIA - I MÓDULO ,Artes
+376,Noturno,Solteiro(a),Feminino,2018-01-16,Motivo de Saúde,CURSO SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - CONCLUSÃO - V MÓDULO,Design
+377,Matutino,Solteiro(a),Masculino,2017-11-28,Não se adaptou a metodologia,Superior de Tecnologia em Gestão da Tecnologia da Informação - I Módulo,Informática
+378,Matutino,Solteiro(a),Masculino,2017-11-27,Mudança de Município,Superior de Tecnologia em Gestão da Tecnologia da Informação - I Módulo,Informática
+379,Noturno,Solteiro(a),Masculino,2017-11-21,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - II MÓDULO,Design
+380,Matutino,Solteiro(a),Masculino,2017-11-10,Mudança de Município,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - II MÓDULO,Design
+381,Noturno,Solteiro(a),Masculino,2017-11-10,Motivo de Viagens,SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - II MÓDULO,Informática
+382,Noturno,Solteiro(a),Masculino,2017-11-09,Motivo de Viagens,SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - II MÓDULO,Informática
+383,Noturno,Casado(a),Masculino,2017-10-30,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO -  IV MÓDULO,Design
+384,Matutino,Casado(a),Masculino,2017-10-30,Motivo de Viagens,Superior de Tecnologia em Gestão da Tecnologia da Informação - I Módulo,Informática
+385,Noturno,Solteiro(a),Feminino,2017-10-17,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - II MÓDULO ,Informática
+386,Noturno,Casado(a),Masculino,2017-10-17,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - II MÓDULO ,Informática
+387,Noturno,Solteiro(a),Masculino,2017-10-11,Motivo de Saúde,SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - II MÓDULO,Informática
+388,Matutino,Solteiro(a),Masculino,2017-10-10,Dificuldades Financeiras,Superior de Tecnologia em Gestão da Tecnologia da Informação - I Módulo,Informática
+389,Matutino,Solteiro(a),Masculino,2017-10-10,Mudança de Município,Superior de Tecnologia em Gestão da Tecnologia da Informação - I Módulo,Informática
+390,Matutino,Casado(a),Feminino,2017-10-09,Motivo de Saúde,Superior de Tecnologia em Gestão da Tecnologia da Informação - I Módulo,Informática
+391,Matutino,Casado(a),Feminino,2017-10-09,Motivo de Saúde,Superior de Tecnologia em Gestão da Tecnologia da Informação - I Módulo,Informática
+392,Noturno,Solteiro(a),Masculino,2017-10-04,Cancelamento da Programação,Curso Superior de Tecnologia em Gestão Comercial - I Módulo,Gestäo
+393,Noturno,Solteiro(a),Feminino,2017-10-03,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO -  IV MÓDULO,Design
+394,Noturno,Solteiro(a),Masculino,2017-10-03,Cancelamento da Programação,Curso Superior de Tecnologia em Gestão Comercial - I Módulo,Gestäo
+395,Noturno,Casado(a),Feminino,2017-10-03,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - II MÓDULO,Design
+396,Matutino,Solteiro(a),Feminino,2017-10-03,Não se identificou com o curso,Superior de Tecnologia em Gestão da Tecnologia da Informação - I Módulo,Informática
+397,Noturno,Solteiro(a),Masculino,2017-10-02,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - II MÓDULO,Design
+398,Noturno,Solteiro(a),Masculino,2017-10-02,Não se identificou com o curso,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - II MÓDULO,Design
+399,Matutino,Casado(a),Masculino,2017-10-02,Motivo de Trabalho,Superior de Tecnologia em Gestão da Tecnologia da Informação - I Módulo,Informática
+400,Matutino,Casado(a),Masculino,2017-10-02,Motivo de Trabalho,Superior de Tecnologia em Gestão da Tecnologia da Informação - I Módulo,Informática
+401,Matutino,Solteiro(a),Masculino,2017-09-29,Dificuldades Financeiras,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - II MÓDULO ,Informática
+402,Noturno,Solteiro(a),Masculino,2017-09-25,Cancelamento da Programação,Curso Superior de Tecnologia em Gestão Comercial - I Módulo,Gestäo
+403,Noturno,Solteiro(a),Masculino,2017-09-25,Cancelamento da Programação,Curso Superior de Tecnologia em Gestão Comercial - I Módulo,Gestäo
+404,Noturno,Solteiro(a),Masculino,2017-09-25,Cancelamento da Programação,Curso Superior de Tecnologia em Gestão Comercial - I Módulo,Gestäo
+405,Noturno,Solteiro(a),Masculino,2017-09-25,Cancelamento da Programação,Curso Superior de Tecnologia em Gestão Comercial - I Módulo,Gestäo
+406,Noturno,Solteiro(a),Feminino,2017-09-25,Mudança de Município,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - II MÓDULO,Design
+407,Matutino,Solteiro(a),Masculino,2017-09-25,Dificuldades Financeiras,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO III,Informática
+408,Matutino,Solteiro(a),Masculino,2017-09-21,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - II MÓDULO,Design
+409,Noturno,Solteiro(a),Masculino,2017-09-20,Cancelamento da Programação,Curso Superior de Tecnologia em Gestão Comercial - I Módulo,Gestäo
+410,Noturno,Solteiro(a),Masculino,2017-09-19,Cancelamento da Programação,Curso Superior de Tecnologia em Gestão Comercial - I Módulo,Gestäo
+411,Noturno,Solteiro(a),Masculino,2017-09-19,Cancelamento da Programação,Curso Superior de Tecnologia em Gestão Comercial - I Módulo,Gestäo
+412,Noturno,Solteiro(a),Masculino,2017-09-19,Cancelamento da Programação,Curso Superior de Tecnologia em Gestão Comercial - I Módulo,Gestäo
+413,Noturno,Solteiro(a),Masculino,2017-09-14,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO IV,Informática
+414,Noturno,Solteiro(a),Masculino,2017-09-11,Cancelamento da Programação,Superior de Tecnologia em Segurança da Informação - I Módulo,Informática
+415,Noturno,Solteiro(a),Masculino,2017-09-11,Motivo de Viagens,SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - II MÓDULO,Informática
+416,Noturno,Solteiro(a),Masculino,2017-09-10,Cancelamento da Programação,Superior de Tecnologia em Segurança da Informação - I Módulo,Informática
+417,Noturno,Solteiro(a),Masculino,2017-09-06,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - II MÓDULO,Informática
+418,Noturno,Solteiro(a),Masculino,2017-09-06,Dificuldades Financeiras,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO III,Informática
+419,Noturno,Solteiro(a),Masculino,2017-09-05,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - II MÓDULO,Informática
+420,Noturno,Solteiro(a),Feminino,2017-09-04,Cancelamento da Programação,Superior de Tecnologia em Gestão Ambiental - 1° Módulo ,Meio Ambiente (Ambiente e Saúde)
+421,Noturno,Solteiro(a),Feminino,2017-09-04,Cancelamento da Programação,Superior de Tecnologia em Gestão Ambiental - 1° Módulo ,Meio Ambiente (Ambiente e Saúde)
+422,Matutino,Solteiro(a),Masculino,2017-09-01,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO III,Informática
+423,Matutino,Solteiro(a),Masculino,2017-09-01,Cancelamento da Programação,Superior de Tecnologia em Jogos Digitais - I Módulo,Informática
+424,Noturno,Solteiro(a),Masculino,2017-08-31,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO -  IV MÓDULO,Design
+425,Noturno,Solteiro(a),Masculino,2017-08-31,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - II MÓDULO ,Informática
+426,Matutino,Solteiro(a),Masculino,2017-08-31,Cancelamento da Programação,Superior de Tecnologia em Jogos Digitais - I Módulo,Informática
+427,Matutino,Solteiro(a),Masculino,2017-08-30,Cancelamento da Programação,Superior de Tecnologia em Jogos Digitais - I Módulo,Informática
+428,Matutino,Solteiro(a),Masculino,2017-08-30,Cancelamento da Programação,Superior de Tecnologia em Jogos Digitais - I Módulo,Informática
+429,Noturno,Solteiro(a),Masculino,2017-08-29,Motivo de Saúde,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - II MÓDULO ,Informática
+430,Noturno,Solteiro(a),Masculino,2017-08-29,Cancelamento da Programação,Superior de Tecnologia em Produção Multimídia - Módulo 1,Design
+431,Noturno,Solteiro(a),Masculino,2017-08-29,Cancelamento da Programação,Superior de Tecnologia em Produção Multimídia - Módulo 1,Design
+432,Noturno,Casado(a),Feminino,2017-08-29,Cancelamento da Programação,Superior de Tecnologia em Segurança da Informação - I Módulo,Informática
+433,Noturno,Solteiro(a),Masculino,2017-08-29,Cancelamento da Programação,Superior de Tecnologia em Segurança da Informação - I Módulo,Informática
+434,Noturno,Casado(a),Feminino,2017-08-29,Cancelamento da Programação,Superior de Tecnologia em Segurança da Informação - I Módulo,Informática
+435,Noturno,Solteiro(a),Masculino,2017-08-29,Cancelamento da Programação,Superior de Tecnologia em Segurança da Informação - I Módulo,Informática
+436,Noturno,Solteiro(a),Masculino,2017-08-28,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO IV,Informática
+437,Noturno,Solteiro(a),Masculino,2017-08-28,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - II MÓDULO,Informática
+438,Noturno,Solteiro(a),Masculino,2017-08-28,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - II MÓDULO,Informática
+439,Noturno,Solteiro(a),Masculino,2017-08-25,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO IV,Informática
+440,Noturno,Solteiro(a),Feminino,2017-08-23,Motivo de Viagens,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - II MÓDULO,Design
+441,Noturno,Solteiro(a),Masculino,2017-08-22,Não se identificou com o curso,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - II MÓDULO,Design
+442,Matutino,Solteiro(a),Masculino,2017-08-21,Dificuldades Financeiras,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - II MÓDULO ,Informática
+443,Noturno,Solteiro(a),Masculino,2017-08-16,Transferência de Programação,SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - II MÓDULO,Informática
+444,Noturno,Solteiro(a),Masculino,2017-08-16,Transferência de Programação,SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - II MÓDULO,Informática
+445,Matutino,Solteiro(a),Masculino,2017-08-15,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - II MÓDULO ,Informática
+446,Matutino,Solteiro(a),Masculino,2017-08-15,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - II MÓDULO ,Informática
+447,Noturno,Solteiro(a),Feminino,2017-08-10,Cancelamento da Programação,Superior de Tecnologia em Gestão Ambiental - 1° Módulo ,Meio Ambiente (Ambiente e Saúde)
+448,Noturno,Solteiro(a),Feminino,2017-08-10,Cancelamento da Programação,Superior de Tecnologia em Gestão Ambiental - 1° Módulo ,Meio Ambiente (Ambiente e Saúde)
+449,Noturno,Solteiro(a),Masculino,2017-08-09,Adiamento da Programação,Superior de Tecnologia em Gestão Comercial - I Módulo,Gestäo
+450,Noturno,Solteiro(a),Feminino,2017-08-09,Adiamento da Programação,Superior de Tecnologia em Gestão Comercial - I Módulo,Gestäo
+451,Noturno,Solteiro(a),Masculino,2017-08-09,Adiamento da Programação,Superior de Tecnologia em Gestão Comercial - I Módulo,Gestäo
+452,Noturno,Solteiro(a),Masculino,2017-08-09,Adiamento da Programação,Superior de Tecnologia em Gestão Comercial - I Módulo,Gestäo
+453,Noturno,Solteiro(a),Masculino,2017-08-09,Adiamento da Programação,Superior de Tecnologia em Gestão Comercial - I Módulo,Gestäo
+454,Noturno,Solteiro(a),Masculino,2017-08-09,Adiamento da Programação,Superior de Tecnologia em Gestão Comercial - I Módulo,Gestäo
+455,Noturno,Solteiro(a),Feminino,2017-08-09,Adiamento da Programação,Superior de Tecnologia em Gestão Comercial - I Módulo,Gestäo
+456,Noturno,Solteiro(a),Masculino,2017-08-09,Adiamento da Programação,Superior de Tecnologia em Gestão Comercial - I Módulo,Gestäo
+457,Noturno,Solteiro(a),Masculino,2017-08-09,Adiamento da Programação,Superior de Tecnologia em Gestão Comercial - I Módulo,Gestäo
+458,Noturno,Solteiro(a),Masculino,2017-08-09,Adiamento da Programação,Superior de Tecnologia em Gestão Comercial - I Módulo,Gestäo
+459,Noturno,Solteiro(a),Masculino,2017-08-09,Adiamento da Programação,Superior de Tecnologia em Gestão Comercial - I Módulo,Gestäo
+460,Noturno,Solteiro(a),Masculino,2017-08-09,Adiamento da Programação,Superior de Tecnologia em Gestão Comercial - I Módulo,Gestäo
+461,Noturno,Solteiro(a),Masculino,2017-08-09,Adiamento da Programação,Superior de Tecnologia em Gestão Comercial - I Módulo,Gestäo
+462,Noturno,Solteiro(a),Masculino,2017-08-09,Adiamento da Programação,Superior de Tecnologia em Gestão Comercial - I Módulo,Gestäo
+463,Noturno,Solteiro(a),Masculino,2017-08-09,Adiamento da Programação,Superior de Tecnologia em Gestão Comercial - I Módulo,Gestäo
+464,Noturno,Solteiro(a),Masculino,2017-08-09,Adiamento da Programação,Superior de Tecnologia em Gestão Comercial - I Módulo,Gestäo
+465,Noturno,Solteiro(a),Masculino,2017-08-09,Adiamento da Programação,Superior de Tecnologia em Gestão Comercial - I Módulo,Gestäo
+466,Noturno,Solteiro(a),Masculino,2017-08-09,Adiamento da Programação,Superior de Tecnologia em Gestão Comercial - I Módulo,Gestäo
+467,Noturno,Solteiro(a),Masculino,2017-08-09,Adiamento da Programação,Superior de Tecnologia em Gestão Comercial - I Módulo,Gestäo
+468,Noturno,Solteiro(a),Masculino,2017-08-09,Adiamento da Programação,Superior de Tecnologia em Gestão Comercial - I Módulo,Gestäo
+469,Noturno,Solteiro(a),Masculino,2017-08-09,Adiamento da Programação,Superior de Tecnologia em Gestão Comercial - I Módulo,Gestäo
+470,Noturno,Solteiro(a),Masculino,2017-08-09,Adiamento da Programação,Superior de Tecnologia em Gestão Comercial - I Módulo,Gestäo
+471,Noturno,Solteiro(a),Masculino,2017-08-08,Cancelamento da Programação,Superior de Tecnologia em Gestão Ambiental - 1° Módulo ,Meio Ambiente (Ambiente e Saúde)
+472,Noturno,Solteiro(a),Masculino,2017-08-08,Cancelamento da Programação,Superior de Tecnologia em Gestão Ambiental - 1° Módulo ,Meio Ambiente (Ambiente e Saúde)
+473,Matutino,Solteiro(a),Masculino,2017-06-20,Outros Motivos,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - I MÓDULO,Design
+474,Matutino,Solteiro(a),Masculino,2017-06-07,Motivo de Viagens,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - I MÓDULO,Informática
+475,Noturno,Solteiro(a),Feminino,2017-06-05,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - III MÓDULO,Design
+476,Matutino,Solteiro(a),Masculino,2017-06-05,Outros Motivos,CURSO SUPERIOR DE TECNOLOGIA EM JOGOS DIGITAIS - MÓDULO 5,Informática
+477,Matutino,Divorciado(a),Masculino,2017-05-31,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - I MÓDULO,Informática
+478,Matutino,Solteiro(a),Feminino,2017-05-16,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - I MÓDULO,Informática
+479,Noturno,Solteiro(a),Masculino,2017-05-15,Motivo de Saúde,CURSO SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - V MÓDULO,Design
+480,Noturno,Divorciado(a),Masculino,2017-05-12,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - I MÓDULO,Informática
+481,Noturno,Solteiro(a),Masculino,2017-05-10,Outros Motivos,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO II,Informática
+482,Matutino,Solteiro(a),Masculino,2017-05-05,Outros Motivos,Curso Superior de Tecnologia em Design Gráfico - III Módulo,Design
+483,Noturno,Solteiro(a),Feminino,2017-04-28,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - III MÓDULO,Design
+484,Noturno,Solteiro(a),Masculino,2017-04-27,Outros Motivos,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO II,Informática
+485,Noturno,Solteiro(a),Masculino,2017-04-24,Outros Motivos,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO II,Informática
+486,Noturno,Solteiro(a),Masculino,2017-04-17,Outros Motivos,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO II,Informática
+487,Matutino,Solteiro(a),Feminino,2017-04-07,Motivo de Saúde,CURSO SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - V MÓDULO,Design
+488,Matutino,Solteiro(a),Masculino,2017-04-03,Outros Motivos,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - I MÓDULO,Design
+489,Noturno,Solteiro(a),Masculino,2017-04-03,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - I MÓDULO,Informática
+490,Noturno,Casado(a),Masculino,2017-04-03,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO IV,Informática
+491,Noturno,Casado(a),Masculino,2017-03-31,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - I MÓDULO,Informática
+492,Noturno,Solteiro(a),Masculino,2017-03-29,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO III,Informática
+493,Noturno,Casado(a),Masculino,2017-03-27,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO IV,Informática
+494,Noturno,Solteiro(a),Feminino,2017-03-24,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - I MÓDULO,Informática
+495,Noturno,Solteiro(a),Masculino,2017-03-23,Outros Motivos,SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - I MÓDULO,Informática
+496,Matutino,Solteiro(a),Feminino,2017-03-20,Transferência de Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO V,Informática
+497,Noturno,Solteiro(a),Masculino,2017-03-17,Adiamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - I MÓDULO,Informática
+498,Noturno,Solteiro(a),Masculino,2017-03-16,Outros Motivos,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO II,Informática
+499,Noturno,Solteiro(a),Masculino,2017-03-13,Motivo de Estudo,SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - I MÓDULO,Informática
+500,Matutino,Solteiro(a),Masculino,2017-03-11,Outros Motivos,CURSO SUPERIOR DE TECNOLOGIA EM JOGOS DIGITAIS - MÓDULO IV,Informática
+501,Matutino,Solteiro(a),Masculino,2017-03-10,Motivo de Estudo,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - I MÓDULO,Design
+502,Noturno,Solteiro(a),Masculino,2017-03-10,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO IV,Informática
+503,Noturno,Solteiro(a),Masculino,2017-03-09,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO III,Informática
+504,Noturno,Solteiro(a),Masculino,2017-03-08,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - III MÓDULO,Design
+505,Matutino,Solteiro(a),Masculino,2017-03-08,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - I MÓDULO,Informática
+506,Noturno,Solteiro(a),Feminino,2017-03-08,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO V,Informática
+507,Noturno,Solteiro(a),Masculino,2017-03-07,Outros Motivos,CURSO SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - III MÓDULO,Design
+508,Noturno,Solteiro(a),Masculino,2017-03-06,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - III MÓDULO,Design
+509,Matutino,Solteiro(a),Feminino,2017-03-06,Outros Motivos,Curso Superior de Tecnologia em Design Gráfico - III Módulo,Design
+510,Matutino,Solteiro(a),Masculino,2017-03-03,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - I MÓDULO,Informática
+511,Matutino,Solteiro(a),Masculino,2017-03-03,Motivo de Saúde,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - I MÓDULO,Informática
+512,Noturno,Divorciado(a),Masculino,2017-03-01,Motivo de Estudo,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - I MÓDULO,Design
+513,Noturno,Solteiro(a),Masculino,2017-03-01,Motivo de Viagens,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - I MÓDULO,Informática
+514,Matutino,Solteiro(a),Masculino,2017-03-01,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM JOGOS DIGITAIS - I MÓDULO,Informática
+515,Noturno,Solteiro(a),Feminino,2017-03-01,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM JOGOS DIGITAIS - I MÓDULO,Informática
+516,Matutino,Solteiro(a),Masculino,2017-03-01,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM JOGOS DIGITAIS - I MÓDULO,Informática
+517,Noturno,Solteiro(a),Feminino,2017-03-01,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM JOGOS DIGITAIS - I MÓDULO,Informática
+518,Matutino,Solteiro(a),Masculino,2017-02-24,Motivo de Trabalho,Curso Superior de Tecnologia em Design Gráfico - III Módulo,Design
+519,Noturno,Solteiro(a),Masculino,2017-02-24,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - III MÓDULO,Design
+520,Matutino,Solteiro(a),Masculino,2017-02-24,Outros Motivos,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - I MÓDULO,Design
+521,Noturno,Solteiro(a),Masculino,2017-02-21,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - I MÓDULO,Gestäo
+522,Integral,Divorciado(a),Feminino,2017-02-21,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO AMBIENTAL - I MÓDULO ,Meio Ambiente (Ambiente e Saúde)
+523,Integral,Divorciado(a),Feminino,2017-02-21,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO AMBIENTAL - I MÓDULO ,Meio Ambiente (Ambiente e Saúde)
+524,Noturno,Solteiro(a),Feminino,2017-02-20,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - I MÓDULO,Gestäo
+525,Noturno,Solteiro(a),Masculino,2017-02-20,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - I MÓDULO,Gestäo
+526,Noturno,Solteiro(a),Masculino,2017-02-20,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - I MÓDULO,Gestäo
+527,Noturno,Solteiro(a),Masculino,2017-02-20,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - I MÓDULO,Gestäo
+528,Noturno,Solteiro(a),Masculino,2017-02-20,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - I MÓDULO,Gestäo
+529,Noturno,Solteiro(a),Feminino,2017-02-20,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - I MÓDULO,Gestäo
+530,Noturno,Solteiro(a),Masculino,2017-02-20,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - I MÓDULO,Gestäo
+531,Noturno,Solteiro(a),Masculino,2017-02-20,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM JOGOS DIGITAIS - I MÓDULO,Informática
+532,Matutino,Solteiro(a),Masculino,2017-02-17,Outros Motivos,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - I MÓDULO,Design
+533,Noturno,Solteiro(a),Masculino,2017-02-17,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM JOGOS DIGITAIS - I MÓDULO,Informática
+534,Matutino,Casado(a),Masculino,2017-02-14,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO II,Informática
+535,Matutino,Solteiro(a),Feminino,2017-02-13,Transferência de Programação,Curso Superior de Tecnologia em Design Gráfico - III Módulo,Design
+536,Matutino,Solteiro(a),Masculino,2017-02-08,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO II,Informática
+537,Noturno,Solteiro(a),Masculino,2017-02-06,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - V MÓDULO,Design
+538,Noturno,Solteiro(a),Masculino,2017-02-06,Outros Motivos,SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO IV,Informática
+539,Integral,Casado(a),Feminino,2017-02-03,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO AMBIENTAL - I MÓDULO ,Meio Ambiente (Ambiente e Saúde)
+540,Integral,Casado(a),Feminino,2017-02-03,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO AMBIENTAL - I MÓDULO ,Meio Ambiente (Ambiente e Saúde)
+541,Matutino,Solteiro(a),Masculino,2017-02-03,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO II,Informática
+542,Integral,Solteiro(a),Feminino,2017-02-01,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO AMBIENTAL - I MÓDULO ,Meio Ambiente (Ambiente e Saúde)
+543,Integral,Solteiro(a),Feminino,2017-02-01,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO AMBIENTAL - I MÓDULO ,Meio Ambiente (Ambiente e Saúde)
+544,Integral,Solteiro(a),Feminino,2017-01-31,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO AMBIENTAL - I MÓDULO ,Meio Ambiente (Ambiente e Saúde)
+545,Noturno,Solteiro(a),Masculino,2017-01-31,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO V,Informática
+546,Noturno,Casado(a),Masculino,2017-01-31,Motivo de Estudo,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO II,Informática
+547,Integral,Solteiro(a),Feminino,2017-01-30,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO AMBIENTAL - I MÓDULO ,Meio Ambiente (Ambiente e Saúde)
+548,Noturno,Solteiro(a),Masculino,2017-01-30,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO V,Informática
+549,Noturno,Solteiro(a),Masculino,2017-01-30,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM JOGOS DIGITAIS - I MÓDULO,Informática
+550,Noturno,Solteiro(a),Feminino,2017-01-30,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM JOGOS DIGITAIS - I MÓDULO,Informática
+551,Noturno,Solteiro(a),Masculino,2017-01-30,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM JOGOS DIGITAIS - I MÓDULO,Informática
+552,Noturno,Solteiro(a),Feminino,2017-01-30,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM JOGOS DIGITAIS - I MÓDULO,Informática
+553,Noturno,Solteiro(a),Masculino,2017-01-30,Cancelamento da Programação,Superior de Tecnologia em Produção Multimídia - I Módulo ,Design
+554,Noturno,Solteiro(a),Masculino,2017-01-30,Cancelamento da Programação,Superior de Tecnologia em Produção Multimídia - I Módulo ,Design
+555,Noturno,Solteiro(a),Masculino,2017-01-30,Outros Motivos,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO II,Informática
+556,Noturno,Solteiro(a),Masculino,2017-01-28,Outros Motivos,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO II,Informática
+557,Matutino,Casado(a),Feminino,2016-11-28,Outros Motivos,CURSO SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - II MÓDULO,Design
+558,Matutino,Solteiro(a),Masculino,2016-11-28,Motivo de Estudo,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO III,Informática
+559,Matutino,Solteiro(a),Masculino,2016-11-22,Motivo de Viagens,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO I,Informática
+560,Matutino,Solteiro(a),Feminino,2016-11-09,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO III,Informática
+561,Noturno,Casado(a),Masculino,2016-11-07,Outros Motivos,Superior de Tecnologia em Design Gráfico - IV MÓDULO,Design
+562,Noturno,Casado(a),Masculino,2016-11-04,Outros Motivos,Superior de Tecnologia em Design Gráfico - IV MÓDULO,Design
+563,Matutino,Divorciado(a),Masculino,2016-10-26,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO I,Informática
+564,Noturno,Solteiro(a),Masculino,2016-10-21,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO II,Informática
+565,Noturno,Solteiro(a),Masculino,2016-10-21,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO IV,Informática
+566,Matutino,Solteiro(a),Masculino,2016-10-20,Outros Motivos,SUPERIOR DE TECNOLOGIA EM JOGOS DIGITAIS - MÓDULO III,Informática
+567,Noturno,Solteiro(a),Masculino,2016-10-19,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO IV,Informática
+568,Noturno,Solteiro(a),Masculino,2016-10-17,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO II,Informática
+569,Matutino,Solteiro(a),Masculino,2016-10-14,Outros Motivos,CURSO SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - II MÓDULO,Design
+570,Noturno,Solteiro(a),Masculino,2016-10-14,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO IV,Informática
+571,Matutino,Solteiro(a),Masculino,2016-10-07,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO I,Informática
+572,Noturno,Solteiro(a),Masculino,2016-09-30,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO II,Informática
+573,Matutino,Solteiro(a),Masculino,2016-09-26,Motivo de Saúde,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO I,Informática
+574,Noturno,Solteiro(a),Masculino,2016-09-23,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO II,Informática
+575,Noturno,Solteiro(a),Masculino,2016-09-23,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO I,Informática
+576,Noturno,Solteiro(a),Masculino,2016-09-23,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO I,Informática
+577,Matutino,Solteiro(a),Masculino,2016-09-22,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO I,Informática
+578,Matutino,Solteiro(a),Masculino,2016-09-22,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO I,Informática
+579,Matutino,Casado(a),Masculino,2016-09-22,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO V,Informática
+580,Noturno,Solteiro(a),Masculino,2016-09-21,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO I,Informática
+581,Matutino,Casado(a),Masculino,2016-09-20,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO I,Informática
+582,Matutino,Casado(a),Masculino,2016-09-20,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO I,Informática
+583,Matutino,Solteiro(a),Feminino,2016-09-12,Outros Motivos,CURSO SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - II MÓDULO,Design
+584,Matutino,Solteiro(a),Feminino,2016-09-12,Outros Motivos,CURSO SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - II MÓDULO,Design
+585,Noturno,Casado(a),Masculino,2016-09-09,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO V,Informática
+586,Noturno,Casado(a),Masculino,2016-09-09,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO V,Informática
+587,Noturno,Casado(a),Masculino,2016-09-08,Motivo de Saúde,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO II,Informática
+588,Noturno,Casado(a),Masculino,2016-09-06,Motivo de Trabalho,Superior de Tecnologia em Design Gráfico - II MÓDULO,Design
+589,Noturno,Casado(a),Masculino,2016-09-06,Outros Motivos,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO I,Informática
+590,Noturno,Casado(a),Masculino,2016-09-06,Outros Motivos,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO I,Informática
+591,Noturno,Solteiro(a),Masculino,2016-09-02,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO I,Informática
+592,Noturno,Solteiro(a),Masculino,2016-09-01,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO I,Informática
+593,Matutino,Solteiro(a),Masculino,2016-08-30,Outros Motivos,CURSO SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - II MÓDULO,Design
+594,Matutino,Solteiro(a),Masculino,2016-08-30,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO I,Informática
+595,Matutino,Solteiro(a),Masculino,2016-08-30,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO I,Informática
+596,Matutino,Solteiro(a),Masculino,2016-08-26,Motivo de Viagens,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - IV MÓDULO,Design
+597,Noturno,Solteiro(a),Masculino,2016-08-25,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO II,Informática
+598,Matutino,Solteiro(a),Masculino,2016-08-23,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - II MÓDULO,Design
+599,Noturno,Solteiro(a),Masculino,2016-08-23,Transferência de Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO II,Informática
+600,Noturno,Solteiro(a),Masculino,2016-08-23,Motivo de Estudo,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO I,Informática
+601,Matutino,Solteiro(a),Masculino,2016-08-22,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - II MÓDULO,Design
+602,Matutino,Solteiro(a),Masculino,2016-08-22,Motivo de Saúde,SUPERIOR DE TECNOLOGIA EM JOGOS DIGITAIS - MÓDULO III,Informática
+603,Noturno,Solteiro(a),Masculino,2016-08-22,Motivo de Estudo,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO I,Informática
+604,Noturno,Casado(a),Masculino,2016-08-19,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO II,Informática
+605,Matutino,Solteiro(a),Feminino,2016-08-17,Cancelamento da Programação,Superior de Tecnologia em Jogos Digitais - Módulo 1,Informática
+606,Matutino,Solteiro(a),Feminino,2016-08-17,Cancelamento da Programação,Superior de Tecnologia em Jogos Digitais - Módulo 1,Informática
+607,Matutino,Solteiro(a),Masculino,2016-08-17,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM JOGOS DIGITAIS - MÓDULO IV,Informática
+608,Matutino,Solteiro(a),Masculino,2016-08-17,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM JOGOS DIGITAIS - MÓDULO V,Informática
+609,Noturno,Solteiro(a),Feminino,2016-08-16,Cancelamento da Programação,Superior de Tecnologia em Produção Multimídia - Módulo 1,Design
+610,Noturno,Solteiro(a),Feminino,2016-08-16,Cancelamento da Programação,Superior de Tecnologia em Produção Multimídia - Módulo 1,Design
+611,Noturno,Solteiro(a),Masculino,2016-08-16,Outros Motivos,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - III MÓDULO,Informática
+612,Noturno,Solteiro(a),Masculino,2016-08-15,Motivo de Trabalho,Superior de Tecnologia em Design Gráfico - IV MÓDULO,Design
+613,Matutino,Solteiro(a),Masculino,2016-08-15,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO V,Informática
+614,Noturno,Solteiro(a),Masculino,2016-08-12,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - MÓDULO I,Gestäo
+615,Noturno,Solteiro(a),Masculino,2016-08-12,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - MÓDULO I,Gestäo
+616,Matutino,Solteiro(a),Masculino,2016-08-12,Cancelamento da Programação,Superior de Tecnologia em Jogos Digitais - Módulo 1,Informática
+617,Matutino,Solteiro(a),Masculino,2016-08-12,Cancelamento da Programação,Superior de Tecnologia em Jogos Digitais - Módulo 1,Informática
+618,Matutino,Solteiro(a),Masculino,2016-08-11,Cancelamento da Programação,Superior de Tecnologia em Jogos Digitais - Módulo 1,Informática
+619,Noturno,Solteiro(a),Masculino,2016-08-10,Motivo de Estudo,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO II,Informática
+620,Matutino,Solteiro(a),Masculino,2016-08-10,Cancelamento da Programação,Superior de Tecnologia em Jogos Digitais - Módulo 1,Informática
+621,Noturno,Solteiro(a),Masculino,2016-08-09,Cancelamento da Programação,Superior de Tecnologia em Produção Multimídia - Módulo 1,Design
+622,Noturno,Solteiro(a),Masculino,2016-08-09,Cancelamento da Programação,Superior de Tecnologia em Produção Multimídia - Módulo 1,Design
+623,Matutino,Solteiro(a),Feminino,2016-08-05,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - IV MÓDULO,Informática
+624,Noturno,Solteiro(a),Masculino,2016-08-04,Motivo de Trabalho,Superior de Tecnologia em Design Gráfico - IV MÓDULO,Design
+625,Noturno,Solteiro(a),Masculino,2016-08-04,Motivo de Trabalho,Superior de Tecnologia em Design Gráfico - IV MÓDULO,Design
+626,Matutino,Casado(a),Masculino,2016-08-03,Cancelamento da Programação,Superior de Tecnologia em Jogos Digitais - Módulo 1,Informática
+627,Matutino,Casado(a),Masculino,2016-08-03,Cancelamento da Programação,Superior de Tecnologia em Jogos Digitais - Módulo 1,Informática
+628,Noturno,Casado(a),Masculino,2016-08-01,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - MÓDULO I,Gestäo
+629,Noturno,Casado(a),Masculino,2016-08-01,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - MÓDULO I,Gestäo
+630,Noturno,Solteiro(a),Masculino,2016-08-01,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO I,Informática
+631,Noturno,Solteiro(a),Masculino,2016-08-01,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO I,Informática
+632,Noturno,Solteiro(a),Masculino,2016-08-01,Cancelamento da Programação,Superior de Tecnologia em Jogos Digitais - Módulo 1,Informática
+633,Noturno,Solteiro(a),Masculino,2016-08-01,Cancelamento da Programação,Superior de Tecnologia em Jogos Digitais - Módulo 1,Informática
+634,Noturno,Solteiro(a),Masculino,2016-08-01,Cancelamento da Programação,Superior de Tecnologia em Produção Multimídia - Módulo 1,Design
+635,Noturno,Solteiro(a),Masculino,2016-08-01,Cancelamento da Programação,Superior de Tecnologia em Produção Multimídia - Módulo 1,Design
+636,Noturno,Solteiro(a),Masculino,2016-07-29,Cancelamento da Programação,Superior de Tecnologia em Jogos Digitais - Módulo 1,Informática
+637,Noturno,Solteiro(a),Masculino,2016-07-28,Cancelamento da Programação,Superior de Tecnologia em Jogos Digitais - Módulo 1,Informática
+638,Noturno,Solteiro(a),Masculino,2016-07-27,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - MÓDULO I,Gestäo
+639,Noturno,Solteiro(a),Masculino,2016-07-27,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - MÓDULO I,Gestäo
+640,Noturno,Solteiro(a),Masculino,2016-07-27,Cancelamento da Programação,Superior de Tecnologia em Produção Multimídia - Módulo 1,Design
+641,Noturno,Solteiro(a),Masculino,2016-07-27,Cancelamento da Programação,Superior de Tecnologia em Produção Multimídia - Módulo 1,Design
+642,Matutino,Solteiro(a),Masculino,2016-06-22,Outros Motivos,Curso Superior de Tecnologia em Design Gráfico - Módulo I,Design
+643,Matutino,Divorciado(a),Masculino,2016-06-16,Mudança de Município,Curso Superior de Tecnologia em Jogos Digitais - III Módulo,Informática
+644,Noturno,Solteiro(a),Masculino,2016-06-03,Outros Motivos,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+645,Noturno,Solteiro(a),Masculino,2016-06-02,Outros Motivos,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+646,Noturno,Solteiro(a),Masculino,2016-05-23,Mudança de Município,Curso Superior de Tecnologia em Design Gráfico - Módulo I,Design
+647,Noturno,Solteiro(a),Masculino,2016-05-16,Motivo de Trabalho,Curso Superior de Tecnologia em Design Gráfico - Módulo I,Design
+648,Matutino,Solteiro(a),Masculino,2016-05-13,Outros Motivos,Curso Superior de Tecnologia em Design Gráfico - Módulo I,Design
+649,Matutino,Solteiro(a),Masculino,2016-05-12,Outros Motivos,Curso Superior de Tecnologia em Design Gráfico - Módulo I,Design
+650,Noturno,Solteiro(a),Masculino,2016-05-11,Motivo de Trabalho,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+651,Matutino,Casado(a),Masculino,2016-05-11,Outros Motivos,Curso Superior de Tecnologia em Gestão da Tecnologia da Informação - II Módulo,Informática
+652,Noturno,Solteiro(a),Feminino,2016-05-10,Outros Motivos,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+653,Noturno,Casado(a),Masculino,2016-05-10,Motivo de Viagens,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+654,Noturno,Solteiro(a),Masculino,2016-05-09,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - III MÓDULO,Gestäo
+655,Noturno,Solteiro(a),Masculino,2016-05-09,Motivo de Trabalho,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+656,Noturno,Solteiro(a),Masculino,2016-05-09,Motivo de Viagens,Curso Superior de Tecnologia em Segurança da Informação - IV Módulo,Informática
+657,Noturno,Solteiro(a),Masculino,2016-05-03,Motivo de Trabalho,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+658,Noturno,Solteiro(a),Masculino,2016-05-03,Motivo de Trabalho,Curso Superior de Tecnologia em Segurança da Informação - IV Módulo,Informática
+659,Vespertino,Solteiro(a),Masculino,2016-05-02,Outros Motivos,Oficina: Formação para a Fábrica de Software Metodologias e Arquitetura,Comp p/ CHE
+660,Vespertino,Solteiro(a),Feminino,2016-05-02,Outros Motivos,Oficina: Formação para a Fábrica de Software Metodologias e Arquitetura,Comp p/ CHE
+661,Vespertino,Solteiro(a),Masculino,2016-05-02,Outros Motivos,Oficina: Formação para a Fábrica de Software Metodologias e Arquitetura,Comp p/ CHE
+662,Vespertino,Solteiro(a),Masculino,2016-05-02,Outros Motivos,Oficina: Formação para a Fábrica de Software Metodologias e Arquitetura,Comp p/ CHE
+663,Vespertino,Outros,Masculino,2016-05-02,Outros Motivos,Oficina: Formação para a Fábrica de Software Metodologias e Arquitetura,Comp p/ CHE
+664,Matutino,Casado(a),Feminino,2016-04-29,Outros Motivos,Superior de Tecnologia em Design Gráfico - III MÓDULO,Design
+665,Matutino,Solteiro(a),Feminino,2016-04-29,Outros Motivos,Superior de Tecnologia em Design Gráfico - III MÓDULO,Design
+666,Noturno,Solteiro(a),Masculino,2016-04-28,Outros Motivos,Curso Superior de Tecnologia em Design Gráfico - III MÓDULO,Design
+667,Noturno,Solteiro(a),Masculino,2016-04-28,Motivo de Saúde,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+668,Matutino,Solteiro(a),Masculino,2016-04-27,Outros Motivos,Curso Superior de Tecnologia em Design Gráfico - Módulo I,Design
+669,Noturno,Solteiro(a),Feminino,2016-04-25,Outros Motivos,Curso Superior de Tecnologia em Segurança da Informação - III Módulo,Informática
+670,Noturno,Solteiro(a),Masculino,2016-04-20,Outros Motivos,Curso Superior de Tecnologia em Design Gráfico - Módulo I,Design
+671,Matutino,Solteiro(a),Masculino,2016-04-20,Outros Motivos,Curso Superior de Tecnologia em Jogos Digitais - III Módulo,Informática
+672,Matutino,Solteiro(a),Masculino,2016-04-20,Outros Motivos,Curso Superior de Tecnologia em Jogos Digitais - III Módulo,Informática
+673,Matutino,Outros,Masculino,2016-04-18,Motivo de Trabalho,Curso Superior de Tecnologia em Design Gráfico - V MÓDULO,Design
+674,Noturno,Solteiro(a),Masculino,2016-04-18,Motivo de Trabalho,Curso Superior de Tecnologia em Gestão da Tecnologia da Informação - V Módulo,Informática
+675,Noturno,Casado(a),Masculino,2016-04-09,Outros Motivos,Curso Superior de Tecnologia em Segurança da Informação - III Módulo,Informática
+676,Noturno,Casado(a),Masculino,2016-04-07,Outros Motivos,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+677,Noturno,Solteiro(a),Masculino,2016-04-05,Outros Motivos,Curso Superior de Tecnologia em Design Gráfico - Módulo I,Design
+678,Noturno,Solteiro(a),Masculino,2016-04-05,Motivo de Trabalho,Curso Superior de Tecnologia em Segurança da Informação - II Módulo,Informática
+679,Noturno,Casado(a),Masculino,2016-04-04,Motivo de Trabalho,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+680,Matutino,Solteiro(a),Masculino,2016-04-04,Motivo de Estudo,Curso Superior de Tecnologia em Gestão da Tecnologia da Informação - II Módulo,Informática
+681,Matutino,Solteiro(a),Masculino,2016-04-04,Motivo de Saúde,Curso Superior de Tecnologia em Jogos Digitais - IV Módulo,Informática
+682,Noturno,Casado(a),Masculino,2016-04-01,Outros Motivos,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+683,Noturno,Solteiro(a),Masculino,2016-03-31,Motivo de Trabalho,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+684,Noturno,Solteiro(a),Masculino,2016-03-31,Motivo de Trabalho,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+685,Matutino,Solteiro(a),Masculino,2016-03-31,Motivo de Saúde,Curso Superior de Tecnologia em Gestão da Tecnologia da Informação - IV Módulo,Informática
+686,Matutino,Solteiro(a),Masculino,2016-03-30,Motivo de Saúde,Curso Superior de Tecnologia em Design Gráfico - Módulo I,Design
+687,Noturno,Solteiro(a),Masculino,2016-03-30,Outros Motivos,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+688,Noturno,Solteiro(a),Masculino,2016-03-30,Outros Motivos,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+689,Matutino,Casado(a),Masculino,2016-03-29,Motivo de Trabalho,Curso Superior de Tecnologia em Gestão da Tecnologia da Informação - II Módulo,Informática
+690,Noturno,Casado(a),Feminino,2016-03-28,Outros Motivos,CURSO SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - III MÓDULO,Gestäo
+691,Noturno,Solteiro(a),Feminino,2016-03-28,Motivo de Saúde,CURSO SUPERIOR DE TECNOLOGIA EM GESTÃO AMBIENTAL - III MÓDULO,Meio Ambiente (Ambiente e Saúde)
+692,Noturno,Casado(a),Masculino,2016-03-28,Outros Motivos,Curso Superior de Tecnologia em Segurança da Informação - II Módulo,Informática
+693,Noturno,Solteiro(a),Masculino,2016-03-23,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM GESTÃO AMBIENTAL - III MÓDULO,Meio Ambiente (Ambiente e Saúde)
+694,Matutino,Solteiro(a),Masculino,2016-03-18,Motivo de Trabalho,Superior de Tecnologia em Design Gráfico - III MÓDULO,Design
+695,Noturno,Solteiro(a),Masculino,2016-03-18,Outros Motivos,Curso Superior de Tecnologia em Gestão da Tecnologia da Informação - III Módulo,Informática
+696,Noturno,Solteiro(a),Masculino,2016-03-17,Outros Motivos,Curso Superior de Tecnologia em Gestão da Tecnologia da Informação - III Módulo,Informática
+697,Noturno,Solteiro(a),Masculino,2016-03-17,Motivo de Trabalho,Curso Superior de Tecnologia em Segurança da Informação - III Módulo,Informática
+698,Noturno,Solteiro(a),Masculino,2016-03-16,Outros Motivos,Curso Superior de Tecnologia em Design Gráfico - Módulo I,Design
+699,Noturno,Solteiro(a),Feminino,2016-03-16,Motivo de Trabalho,Curso Superior de Tecnologia em Segurança da Informação - IV Módulo,Informática
+700,Matutino,Solteiro(a),Masculino,2016-03-15,Outros Motivos,Curso Superior de Tecnologia em Jogos Digitais - III Módulo,Informática
+701,Noturno,Solteiro(a),Masculino,2016-03-15,Motivo de Viagens,Curso Superior de Tecnologia em Segurança da Informação - II Módulo,Informática
+702,Noturno,Solteiro(a),Masculino,2016-03-11,Outros Motivos,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+703,Matutino,Solteiro(a),Masculino,2016-03-10,Mudança de Município,Curso Superior de Tecnologia em Design Gráfico - Módulo I,Design
+704,Matutino,Solteiro(a),Masculino,2016-03-10,Outros Motivos,Curso Superior de Tecnologia em Gestão da Tecnologia da Informação - II Módulo,Informática
+705,Noturno,Solteiro(a),Masculino,2016-03-09,Outros Motivos,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+706,Noturno,Solteiro(a),Feminino,2016-03-08,Outros Motivos,Curso Superior de Tecnologia em Design Gráfico - Módulo I,Design
+707,Matutino,Solteiro(a),Masculino,2016-03-08,Motivo de Trabalho,Curso Superior de Tecnologia em Gestão da Tecnologia da Informação - III Módulo,Informática
+708,Matutino,Solteiro(a),Masculino,2016-03-08,Mudança de Município,Curso Superior de Tecnologia em Gestão da Tecnologia da Informação - III Módulo,Informática
+709,Noturno,Outros,Feminino,2016-03-07,Motivo de Trabalho,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+710,Noturno,Solteiro(a),Masculino,2016-03-04,Outros Motivos,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+711,Matutino,Solteiro(a),Feminino,2016-03-04,Motivo de Estudo,Curso Superior de Tecnologia em Gestão da Tecnologia da Informação - II Módulo,Informática
+712,Noturno,Casado(a),Masculino,2016-03-03,Motivo de Viagens,CURSO SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - III MÓDULO,Gestäo
+713,Noturno,Solteiro(a),Feminino,2016-03-03,Motivo de Trabalho,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+714,Noturno,Solteiro(a),Masculino,2016-02-27,Transferência de Programação,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+715,Noturno,Solteiro(a),Masculino,2016-02-27,Transferência de Programação,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+716,Noturno,Solteiro(a),Masculino,2016-02-27,Transferência de Programação,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+717,Noturno,Solteiro(a),Masculino,2016-02-27,Transferência de Programação,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+718,Noturno,Divorciado(a),Masculino,2016-02-27,Transferência de Programação,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+719,Noturno,Solteiro(a),Masculino,2016-02-27,Transferência de Programação,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+720,Noturno,Solteiro(a),Masculino,2016-02-27,Transferência de Programação,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+721,Noturno,Casado(a),Masculino,2016-02-27,Motivo de Viagens,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+722,Noturno,Solteiro(a),Masculino,2016-02-27,Transferência de Programação,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+723,Noturno,Solteiro(a),Masculino,2016-02-27,Transferência de Programação,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+724,Noturno,Solteiro(a),Masculino,2016-02-27,Transferência de Programação,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+725,Noturno,Solteiro(a),Masculino,2016-02-27,Transferência de Programação,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+726,Matutino,Solteiro(a),Masculino,2016-02-26,Motivo de Trabalho,Superior de Tecnologia em Design Gráfico - III MÓDULO,Design
+727,Noturno,Solteiro(a),Feminino,2016-02-26,Transferência de Programação,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+728,Matutino,Solteiro(a),Masculino,2016-02-26,Cancelamento da Programação,Superior de Tecnologia em Jogos Digitais - Módulo I,Informática
+729,Noturno,Solteiro(a),Masculino,2016-02-25,Cancelamento da Programação,Curso Superior de Tecnologia em Segurança da Informação - Módulo I,Informática
+730,Noturno,Casado(a),Masculino,2016-02-24,Motivo de Estudo,Curso Superior de Tecnologia em Design Gráfico - Módulo I,Design
+731,Noturno,Solteiro(a),Feminino,2016-02-24,Outros Motivos,Curso Superior de Tecnologia em Design Gráfico - Módulo I,Design
+732,Matutino,Solteiro(a),Feminino,2016-02-24,Cancelamento da Programação,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+733,Noturno,Solteiro(a),Masculino,2016-02-24,Cancelamento da Programação,Curso Superior de Tecnologia em Segurança da Informação - Módulo I,Informática
+734,Noturno,Solteiro(a),Masculino,2016-02-23,Motivo de Saúde,Curso Superior de Tecnologia em Design Gráfico - Módulo I,Design
+735,Noturno,Solteiro(a),Masculino,2016-02-23,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - MÓDULO I,Gestäo
+736,Matutino,Solteiro(a),Masculino,2016-02-23,Cancelamento da Programação,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+737,Noturno,Solteiro(a),Masculino,2016-02-23,Motivo de Trabalho,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+738,Noturno,Solteiro(a),Masculino,2016-02-23,Outros Motivos,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+739,Matutino,Solteiro(a),Masculino,2016-02-23,Cancelamento da Programação,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+740,Matutino,Solteiro(a),Masculino,2016-02-23,Cancelamento da Programação,Superior de Tecnologia em Jogos Digitais - Módulo I,Informática
+741,Matutino,Solteiro(a),Masculino,2016-02-23,Cancelamento da Programação,Superior de Tecnologia em Jogos Digitais - Módulo I,Informática
+742,Matutino,Solteiro(a),Masculino,2016-02-23,Cancelamento da Programação,Superior de Tecnologia em Jogos Digitais - Módulo I,Informática
+743,Matutino,Solteiro(a),Masculino,2016-02-23,Cancelamento da Programação,Superior de Tecnologia em Jogos Digitais - Módulo I,Informática
+744,Matutino,Solteiro(a),Masculino,2016-02-23,Cancelamento da Programação,Superior de Tecnologia em Jogos Digitais - Módulo I,Informática
+745,Matutino,Solteiro(a),Masculino,2016-02-23,Cancelamento da Programação,Superior de Tecnologia em Jogos Digitais - Módulo I,Informática
+746,Matutino,Solteiro(a),Masculino,2016-02-23,Outros Motivos,Curso Superior de Tecnologia em Jogos Digitais - III Módulo,Informática
+747,Noturno,Solteiro(a),Masculino,2016-02-23,Cancelamento da Programação,Curso Superior de Tecnologia em Segurança da Informação - Módulo I,Informática
+748,Noturno,Solteiro(a),Masculino,2016-02-23,Cancelamento da Programação,Curso Superior de Tecnologia em Segurança da Informação - Módulo I,Informática
+749,Noturno,Solteiro(a),Masculino,2016-02-23,Cancelamento da Programação,Curso Superior de Tecnologia em Segurança da Informação - Módulo I,Informática
+750,Noturno,Solteiro(a),Masculino,2016-02-23,Cancelamento da Programação,Curso Superior de Tecnologia em Segurança da Informação - Módulo I,Informática
+751,Noturno,Solteiro(a),Masculino,2016-02-22,Motivo de Saúde,Curso Superior de Tecnologia em Design Gráfico - Módulo I,Design
+752,Noturno,Solteiro(a),Masculino,2016-02-22,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - MÓDULO I,Gestäo
+753,Matutino,Solteiro(a),Feminino,2016-02-22,Cancelamento da Programação,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+754,Matutino,Solteiro(a),Feminino,2016-02-22,Outros Motivos,Curso Superior de Tecnologia em Gestão da Tecnologia da Informação - II Módulo,Informática
+755,Matutino,Solteiro(a),Masculino,2016-02-22,Cancelamento da Programação,Superior de Tecnologia em Jogos Digitais - Módulo I,Informática
+756,Matutino,Solteiro(a),Feminino,2016-02-22,Cancelamento da Programação,Superior de Tecnologia em Jogos Digitais - Módulo I,Informática
+757,Matutino,Solteiro(a),Masculino,2016-02-22,Cancelamento da Programação,Superior de Tecnologia em Jogos Digitais - Módulo I,Informática
+758,Matutino,Solteiro(a),Masculino,2016-02-22,Cancelamento da Programação,Superior de Tecnologia em Jogos Digitais - Módulo I,Informática
+759,Matutino,Solteiro(a),Masculino,2016-02-22,Cancelamento da Programação,Superior de Tecnologia em Jogos Digitais - Módulo I,Informática
+760,Matutino,Solteiro(a),Masculino,2016-02-22,Cancelamento da Programação,Superior de Tecnologia em Jogos Digitais - Módulo I,Informática
+761,Matutino,Solteiro(a),Feminino,2016-02-22,Cancelamento da Programação,Superior de Tecnologia em Jogos Digitais - Módulo I,Informática
+762,Matutino,Solteiro(a),Masculino,2016-02-22,Cancelamento da Programação,Superior de Tecnologia em Jogos Digitais - Módulo I,Informática
+763,Matutino,Solteiro(a),Masculino,2016-02-22,Cancelamento da Programação,Superior de Tecnologia em Jogos Digitais - Módulo I,Informática
+764,Noturno,Solteiro(a),Masculino,2016-02-22,Cancelamento da Programação,Curso Superior de Tecnologia em Segurança da Informação - Módulo I,Informática
+765,Noturno,Casado(a),Masculino,2016-02-22,Cancelamento da Programação,Curso Superior de Tecnologia em Segurança da Informação - Módulo I,Informática
+766,Noturno,Casado(a),Masculino,2016-02-22,Cancelamento da Programação,Curso Superior de Tecnologia em Segurança da Informação - Módulo I,Informática
+767,Noturno,Solteiro(a),Masculino,2016-02-22,Cancelamento da Programação,Curso Superior de Tecnologia em Segurança da Informação - Módulo I,Informática
+768,Noturno,Solteiro(a),Masculino,2016-02-22,Cancelamento da Programação,Curso Superior de Tecnologia em Segurança da Informação - Módulo I,Informática
+769,Matutino,Solteiro(a),Masculino,2016-02-20,Cancelamento da Programação,Superior de Tecnologia em Produção Multimídia - Módulo I,Design
+770,Matutino,Solteiro(a),Masculino,2016-02-17,Cancelamento da Programação,Superior de Tecnologia em Produção Multimídia - Módulo I,Design
+771,Matutino,Solteiro(a),Masculino,2016-02-16,Motivo de Saúde,Curso Superior de Tecnologia em Design Gráfico - Módulo I,Design
+772,Matutino,Solteiro(a),Masculino,2016-02-16,Motivo de Trabalho,Curso Superior de Tecnologia em Gestão da Tecnologia da Informação - V Módulo,Informática
+773,Matutino,Solteiro(a),Masculino,2016-02-15,Motivo de Saúde,Curso Superior de Tecnologia em Design Gráfico - Módulo I,Design
+774,Noturno,Solteiro(a),Masculino,2016-02-15,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - MÓDULO I,Gestäo
+775,Noturno,Solteiro(a),Masculino,2016-02-12,Mudança de Município,Curso Superior de Tecnologia em Segurança da Informação - IV Módulo,Informática
+776,Noturno,Solteiro(a),Masculino,2016-02-11,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO AMBIENTAL -  MÓDULO I,Meio Ambiente (Ambiente e Saúde)
+777,Noturno,Solteiro(a),Masculino,2016-02-11,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - MÓDULO I,Gestäo
+778,Noturno,Solteiro(a),Masculino,2016-02-10,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO AMBIENTAL -  MÓDULO I,Meio Ambiente (Ambiente e Saúde)
+779,Matutino,Casado(a),Masculino,2016-02-10,Outros Motivos,Curso Superior de Tecnologia em Gestão da Tecnologia da Informação - V Módulo,Informática
+780,Noturno,Solteiro(a),Masculino,2016-02-05,Outros Motivos,Curso Superior de Tecnologia em Design Gráfico - Módulo I,Design
+781,Noturno,Solteiro(a),Masculino,2016-02-05,Outros Motivos,Curso Superior de Tecnologia em Design Gráfico - Módulo I,Design
+782,Noturno,Solteiro(a),Masculino,2016-02-04,Outros Motivos,Curso Superior de Tecnologia em Segurança da Informação - IV Módulo,Informática
+783,Matutino,Solteiro(a),Masculino,2016-02-03,Outros Motivos,Curso Superior de Tecnologia em Design Gráfico - Módulo I,Design
+784,Noturno,Solteiro(a),Masculino,2016-02-03,Outros Motivos,Curso Superior de Tecnologia em Gestão da Tecnologia da Informação - III Módulo,Informática
+785,Matutino,Solteiro(a),Masculino,2016-02-03,Cancelamento da Programação,Superior de Tecnologia em Produção Multimídia - Módulo I,Design
+786,Matutino,Solteiro(a),Masculino,2016-02-03,Cancelamento da Programação,Superior de Tecnologia em Produção Multimídia - Módulo I,Design
+787,Matutino,Solteiro(a),Masculino,2016-02-03,Cancelamento da Programação,Superior de Tecnologia em Produção Multimídia - Módulo I,Design
+788,Matutino,Solteiro(a),Masculino,2016-02-03,Cancelamento da Programação,Superior de Tecnologia em Produção Multimídia - Módulo I,Design
+789,Noturno,Solteiro(a),Masculino,2016-02-03,Outros Motivos,Curso Superior de Tecnologia em Segurança da Informação - IV Módulo,Informática
+790,Matutino,Solteiro(a),Masculino,2016-02-02,Outros Motivos,Curso Superior de Tecnologia em Design Gráfico - Módulo I,Design
+791,Noturno,Solteiro(a),Feminino,2016-02-02,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO AMBIENTAL -  MÓDULO I,Meio Ambiente (Ambiente e Saúde)
+792,Noturno,Solteiro(a),Feminino,2016-02-02,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO AMBIENTAL -  MÓDULO I,Meio Ambiente (Ambiente e Saúde)
+793,Noturno,Solteiro(a),Masculino,2016-02-02,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO AMBIENTAL -  MÓDULO I,Meio Ambiente (Ambiente e Saúde)
+794,Noturno,Solteiro(a),Masculino,2016-02-02,Outros Motivos,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+795,Matutino,Solteiro(a),Masculino,2016-02-02,Cancelamento da Programação,Superior de Tecnologia em Produção Multimídia - Módulo I,Design
+796,Matutino,Solteiro(a),Feminino,2016-02-02,Cancelamento da Programação,Superior de Tecnologia em Produção Multimídia - Módulo I,Design
+797,Matutino,Solteiro(a),Masculino,2016-02-02,Cancelamento da Programação,Superior de Tecnologia em Produção Multimídia - Módulo I,Design
+798,Matutino,Solteiro(a),Masculino,2016-02-02,Cancelamento da Programação,Superior de Tecnologia em Produção Multimídia - Módulo I,Design
+799,Matutino,Solteiro(a),Feminino,2016-02-02,Cancelamento da Programação,Superior de Tecnologia em Produção Multimídia - Módulo I,Design
+800,Matutino,Solteiro(a),Masculino,2016-02-02,Cancelamento da Programação,Superior de Tecnologia em Produção Multimídia - Módulo I,Design
+801,Matutino,Solteiro(a),Masculino,2016-02-02,Cancelamento da Programação,Superior de Tecnologia em Produção Multimídia - Módulo I,Design
+802,Matutino,Casado(a),Feminino,2016-02-02,Cancelamento da Programação,Superior de Tecnologia em Produção Multimídia - Módulo I,Design
+803,Matutino,Solteiro(a),Masculino,2016-02-02,Cancelamento da Programação,Superior de Tecnologia em Produção Multimídia - Módulo I,Design
+804,Noturno,Solteiro(a),Masculino,2016-02-01,Outros Motivos,Curso Superior de Tecnologia em Design Gráfico - Módulo I,Design
+805,Noturno,Solteiro(a),Masculino,2016-02-01,Outros Motivos,Curso Superior de Tecnologia em Design Gráfico - Módulo I,Design
+806,Noturno,Solteiro(a),Feminino,2016-02-01,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO AMBIENTAL -  MÓDULO I,Meio Ambiente (Ambiente e Saúde)
+807,Noturno,Casado(a),Masculino,2016-02-01,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO AMBIENTAL -  MÓDULO I,Meio Ambiente (Ambiente e Saúde)
+808,Noturno,Casado(a),Masculino,2016-02-01,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO AMBIENTAL -  MÓDULO I,Meio Ambiente (Ambiente e Saúde)
+809,Noturno,Solteiro(a),Masculino,2016-02-01,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO AMBIENTAL -  MÓDULO I,Meio Ambiente (Ambiente e Saúde)
+810,Noturno,Solteiro(a),Feminino,2016-02-01,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO AMBIENTAL -  MÓDULO I,Meio Ambiente (Ambiente e Saúde)
+811,Noturno,Solteiro(a),Masculino,2016-02-01,Outros Motivos,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+812,Matutino,Solteiro(a),Feminino,2016-02-01,Cancelamento da Programação,Superior de Tecnologia em Produção Multimídia - Módulo I,Design
+813,Matutino,Solteiro(a),Feminino,2016-02-01,Cancelamento da Programação,Superior de Tecnologia em Produção Multimídia - Módulo I,Design
+814,Matutino,Casado(a),Feminino,2016-02-01,Cancelamento da Programação,Superior de Tecnologia em Produção Multimídia - Módulo I,Design
+815,Matutino,Solteiro(a),Masculino,2016-02-01,Cancelamento da Programação,Superior de Tecnologia em Produção Multimídia - Módulo I,Design
+816,Matutino,Solteiro(a),Masculino,2016-02-01,Cancelamento da Programação,Superior de Tecnologia em Produção Multimídia - Módulo I,Design
+817,Noturno,Solteiro(a),Masculino,2015-12-14,Outros Motivos,Superior de Tecnologia em Design Gráfico - IV MÓDULO,Design
+818,Noturno,Solteiro(a),Masculino,2015-12-11,Outros Motivos,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO I,Informática
+819,Noturno,Solteiro(a),Masculino,2015-11-23,Outros Motivos,SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - IV MÓDULO,Informática
+820,Matutino,Solteiro(a),Masculino,2015-11-10,Outros Motivos,SUPERIOR DE TECNOLOGIA EM JOGOS DIGITAIS - I MÓDULO,Informática
+821,Matutino,Solteiro(a),Masculino,2015-11-03,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM JOGOS DIGITAIS - II MÓDULO ,Informática
+822,Matutino,Solteiro(a),Masculino,2015-10-31,Outros Motivos,SUPERIOR DE TECNOLOGIA EM JOGOS DIGITAIS - I MÓDULO,Informática
+823,Matutino,Solteiro(a),Masculino,2015-10-29,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - II MÓDULO,Design
+824,Noturno,Casado(a),Masculino,2015-10-29,Motivo de Trabalho,Superior de Tecnologia em Design Gráfico - IV MÓDULO,Design
+825,Noturno,Outros,Masculino,2015-10-29,Motivo de Trabalho,Superior de Tecnologia em Design Gráfico - IV MÓDULO,Design
+826,Noturno,Outros,Masculino,2015-10-28,Motivo de Trabalho,Superior de Tecnologia em Design Gráfico - IV MÓDULO,Design
+827,Noturno,Solteiro(a),Masculino,2015-10-28,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO I,Informática
+828,Noturno,Solteiro(a),Masculino,2015-10-27,Motivo de Saúde,Superior de Tecnologia em Design Gráfico - IV MÓDULO,Design
+829,Matutino,Solteiro(a),Feminino,2015-10-26,Outros Motivos,Superior de Tecnologia em Design Gráfico - IV MÓDULO,Design
+830,Matutino,Solteiro(a),Masculino,2015-10-26,Motivo de Viagens,SUPERIOR DE TECNOLOGIA EM JOGOS DIGITAIS - MÓDULO 3,Informática
+831,Matutino,Solteiro(a),Feminino,2015-10-22,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - III MÓDULO,Informática
+832,Noturno,Solteiro(a),Masculino,2015-10-22,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO I,Informática
+833,Noturno,Solteiro(a),Feminino,2015-10-20,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO I,Informática
+834,Matutino,Solteiro(a),Masculino,2015-10-19,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - II MÓDULO,Design
+835,Noturno,Solteiro(a),Masculino,2015-10-19,Motivo de Saúde,Superior de Tecnologia em Design Gráfico - IV MÓDULO,Design
+836,Noturno,Casado(a),Masculino,2015-10-19,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - II MÓDULO,Informática
+837,Noturno,Solteiro(a),Masculino,2015-10-19,Motivo de Estudo,SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - III MÓDULO,Informática
+838,Matutino,Solteiro(a),Feminino,2015-10-15,Outros Motivos,SUPERIOR DE TECNOLOGIA EM JOGOS DIGITAIS - I MÓDULO,Informática
+839,Noturno,Solteiro(a),Masculino,2015-10-14,Outros Motivos,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO I,Informática
+840,Noturno,Solteiro(a),Masculino,2015-10-13,Outros Motivos,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO I,Informática
+841,Matutino,Solteiro(a),Masculino,2015-10-09,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - II MÓDULO,Design
+842,Noturno,Solteiro(a),Masculino,2015-10-07,Outros Motivos,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - II MÓDULO,Design
+843,Matutino,Solteiro(a),Masculino,2015-09-29,Motivo de Saúde,SUPERIOR DE TECNOLOGIA EM JOGOS DIGITAIS - I MÓDULO,Informática
+844,Noturno,Solteiro(a),Masculino,2015-09-29,Outros Motivos,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO I,Informática
+845,Noturno,Solteiro(a),Masculino,2015-09-28,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - MÓDULO I,Gestäo
+846,Noturno,Solteiro(a),Feminino,2015-09-28,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - MÓDULO I,Gestäo
+847,Noturno,Solteiro(a),Masculino,2015-09-25,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - II MÓDULO ,Informática
+848,Matutino,Solteiro(a),Masculino,2015-09-25,Outros Motivos,SUPERIOR DE TECNOLOGIA EM JOGOS DIGITAIS - I MÓDULO,Informática
+849,Noturno,Casado(a),Masculino,2015-09-24,Motivo de Trabalho,superior de Tecnologia em Gestão Comercial - III Modulo,Gestäo
+850,Noturno,Solteiro(a),Masculino,2015-09-24,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - II MÓDULO ,Informática
+851,Noturno,Solteiro(a),Masculino,2015-09-24,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - IV MÓDULO ,Informática
+852,Noturno,Casado(a),Masculino,2015-09-24,Motivo de Saúde,SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - V MÓDULO,Informática
+853,Noturno,Solteiro(a),Masculino,2015-09-23,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - II MÓDULO ,Informática
+854,Noturno,Solteiro(a),Masculino,2015-09-23,Outros Motivos,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO I,Informática
+855,Noturno,Solteiro(a),Masculino,2015-09-22,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - II MÓDULO ,Informática
+856,Noturno,Solteiro(a),Masculino,2015-09-22,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO I,Informática
+857,Noturno,Divorciado(a),Masculino,2015-09-21,Outros Motivos,superior de Tecnologia em Gestão Comercial - V Modulo,Gestäo
+858,Noturno,Solteiro(a),Masculino,2015-09-21,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - II MÓDULO ,Informática
+859,Matutino,Solteiro(a),Masculino,2015-09-18,Motivo de Saúde,SUPERIOR DE TECNOLOGIA EM JOGOS DIGITAIS - I MÓDULO,Informática
+860,Matutino,Solteiro(a),Masculino,2015-09-18,Outros Motivos,SUPERIOR DE TECNOLOGIA EM JOGOS DIGITAIS - I MÓDULO,Informática
+861,Noturno,Solteiro(a),Feminino,2015-09-16,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - MÓDULO I,Gestäo
+862,Noturno,Solteiro(a),Masculino,2015-09-16,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - MÓDULO I,Gestäo
+863,Noturno,Solteiro(a),Masculino,2015-09-16,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - MÓDULO I,Gestäo
+864,Noturno,Solteiro(a),Masculino,2015-09-16,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - MÓDULO I,Gestäo
+865,Noturno,Solteiro(a),Masculino,2015-09-16,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - II MÓDULO ,Informática
+866,Noturno,Solteiro(a),Masculino,2015-09-14,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - MÓDULO I,Gestäo
+867,Noturno,Solteiro(a),Masculino,2015-09-14,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - MÓDULO I,Gestäo
+868,Noturno,Solteiro(a),Masculino,2015-09-14,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - MÓDULO I,Gestäo
+869,Noturno,Casado(a),Feminino,2015-09-14,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - MÓDULO I,Gestäo
+870,Noturno,Solteiro(a),Masculino,2015-09-14,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - MÓDULO I,Gestäo
+871,Noturno,Solteiro(a),Masculino,2015-09-14,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - MÓDULO I,Gestäo
+872,Noturno,Solteiro(a),Masculino,2015-09-14,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - MÓDULO I,Gestäo
+873,Noturno,Solteiro(a),Masculino,2015-09-14,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - MÓDULO I,Gestäo
+874,Matutino,Solteiro(a),Feminino,2015-09-12,Motivo de Saúde,Superior de Tecnologia em Design Gráfico - IV MÓDULO,Design
+875,Noturno,Solteiro(a),Masculino,2015-09-11,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - MÓDULO I,Gestäo
+876,Noturno,Outros,Feminino,2015-09-11,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - MÓDULO I,Gestäo
+877,Noturno,Solteiro(a),Masculino,2015-09-10,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - MÓDULO I,Gestäo
+878,Noturno,Solteiro(a),Masculino,2015-09-10,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - MÓDULO I,Gestäo
+879,Noturno,Solteiro(a),Masculino,2015-09-09,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - MÓDULO I,Gestäo
+880,Noturno,Solteiro(a),Feminino,2015-09-09,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - MÓDULO I,Gestäo
+881,Noturno,Solteiro(a),Masculino,2015-09-09,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - MÓDULO I,Gestäo
+882,Noturno,Solteiro(a),Masculino,2015-09-08,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - MÓDULO I,Gestäo
+883,Noturno,Solteiro(a),Masculino,2015-09-08,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - MÓDULO I,Gestäo
+884,Noturno,Solteiro(a),Masculino,2015-09-08,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - MÓDULO I,Gestäo
+885,Noturno,Solteiro(a),Masculino,2015-09-08,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - MÓDULO I,Gestäo
+886,Noturno,Solteiro(a),Feminino,2015-09-08,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - MÓDULO I,Gestäo
+887,Noturno,Solteiro(a),Masculino,2015-09-05,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - MÓDULO I,Gestäo
+888,Noturno,Solteiro(a),Masculino,2015-09-03,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - MÓDULO I,Gestäo
+889,Noturno,Casado(a),Feminino,2015-09-03,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - MÓDULO I,Gestäo
+890,Matutino,Casado(a),Masculino,2015-09-03,Motivo de Estudo,SUPERIOR DE TECNOLOGIA EM JOGOS DIGITAIS - I MÓDULO,Informática
+891,Noturno,Solteiro(a),Masculino,2015-09-02,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - MÓDULO I,Gestäo
+892,Noturno,Outros,Feminino,2015-09-01,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - MÓDULO I,Gestäo
+893,Noturno,Solteiro(a),Masculino,2015-09-01,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - MÓDULO I,Gestäo
+894,Noturno,Solteiro(a),Masculino,2015-09-01,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - MÓDULO I,Gestäo
+895,Noturno,Solteiro(a),Masculino,2015-09-01,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - MÓDULO I,Gestäo
+896,Noturno,Solteiro(a),Masculino,2015-09-01,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - MÓDULO I,Gestäo
+897,Matutino,Solteiro(a),Masculino,2015-09-01,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM JOGOS DIGITAIS - II MÓDULO ,Informática
+898,Matutino,Solteiro(a),Masculino,2015-09-01,Outros Motivos,SUPERIOR DE TECNOLOGIA EM JOGOS DIGITAIS - MÓDULO 3,Informática
+899,Noturno,Solteiro(a),Masculino,2015-08-31,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - MÓDULO I,Gestäo
+900,Noturno,Solteiro(a),Masculino,2015-08-31,Motivo de Estudo,SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - II MÓDULO,Informática
+901,Matutino,Casado(a),Feminino,2015-08-28,Outros Motivos,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - II MÓDULO,Design
+902,Matutino,Casado(a),Feminino,2015-08-28,Outros Motivos,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - II MÓDULO,Design
+903,Matutino,Casado(a),Masculino,2015-08-28,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - II MÓDULO ,Informática
+904,Matutino,Solteiro(a),Masculino,2015-08-27,Motivo de Saúde,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO I,Informática
+905,Noturno,Casado(a),Masculino,2015-08-27,Mudança de Município,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO I,Informática
+906,Matutino,Solteiro(a),Masculino,2015-08-26,Outros Motivos,SUPERIOR DE TECNOLOGIA EM JOGOS DIGITAIS - II MÓDULO ,Informática
+907,Noturno,Solteiro(a),Masculino,2015-08-25,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO AMBIENTAL - 1° MÓDULO ,Meio Ambiente (Ambiente e Saúde)
+908,Noturno,Solteiro(a),Feminino,2015-08-25,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - II MÓDULO ,Informática
+909,Noturno,Solteiro(a),Masculino,2015-08-25,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO I,Informática
+910,Noturno,Solteiro(a),Feminino,2015-08-24,Outros Motivos,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - II MÓDULO,Design
+911,Noturno,Casado(a),Masculino,2015-08-21,Mudança de Município,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO I,Informática
+912,Matutino,Solteiro(a),Masculino,2015-08-20,Motivo de Saúde,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO I,Informática
+913,Matutino,Solteiro(a),Masculino,2015-08-19,Transferência de Programação,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - II MÓDULO,Design
+914,Matutino,Solteiro(a),Masculino,2015-08-19,Transferência de Programação,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - II MÓDULO,Design
+915,Noturno,Solteiro(a),Masculino,2015-08-17,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO I,Informática
+916,Noturno,Solteiro(a),Masculino,2015-08-14,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO AMBIENTAL - 1° MÓDULO ,Meio Ambiente (Ambiente e Saúde)
+917,Matutino,Solteiro(a),Feminino,2015-08-10,Motivo de Trabalho,Superior de Tecnologia em Design Gráfico - IV MÓDULO,Design
+918,Matutino,Solteiro(a),Feminino,2015-08-10,Motivo de Trabalho,Superior de Tecnologia em Design Gráfico - IV MÓDULO,Design
+919,Noturno,Solteiro(a),Feminino,2015-08-10,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO AMBIENTAL - II MÓDULO,Meio Ambiente (Ambiente e Saúde)
+920,Noturno,Solteiro(a),Masculino,2015-08-10,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - II MÓDULO ,Informática
+921,Matutino,Solteiro(a),Feminino,2015-08-07,Motivo de Trabalho,Superior de Tecnologia em Design Gráfico - IV MÓDULO,Design
+922,Noturno,Solteiro(a),Feminino,2015-08-07,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO AMBIENTAL - II MÓDULO,Meio Ambiente (Ambiente e Saúde)
+923,Matutino,Solteiro(a),Feminino,2015-08-06,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - II MÓDULO,Design
+924,Matutino,Solteiro(a),Feminino,2015-08-06,Motivo de Trabalho,Superior de Tecnologia em Design Gráfico - IV MÓDULO,Design
+925,Matutino,Casado(a),Masculino,2015-08-06,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - II MÓDULO ,Informática
+926,Noturno,Casado(a),Masculino,2015-08-05,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - II MÓDULO,Informática
+927,Matutino,Solteiro(a),Masculino,2015-08-04,Outros Motivos,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - II MÓDULO,Design
+928,Matutino,Solteiro(a),Feminino,2015-08-04,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - II MÓDULO,Design
+929,Matutino,Solteiro(a),Feminino,2015-08-04,Motivo de Trabalho,Superior de Tecnologia em Design Gráfico - IV MÓDULO,Design
+930,Matutino,Solteiro(a),Feminino,2015-08-04,Motivo de Trabalho,Superior de Tecnologia em Design Gráfico - IV MÓDULO,Design
+931,Noturno,Divorciado(a),Feminino,2015-08-04,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO AMBIENTAL - 1° MÓDULO ,Meio Ambiente (Ambiente e Saúde)
+932,Matutino,Solteiro(a),Masculino,2015-08-04,Cancelamento da Programação,Superior de Tecnologia em Produção Multimídia - Módulo 1,Design
+933,Matutino,Solteiro(a),Masculino,2015-08-04,Cancelamento da Programação,Superior de Tecnologia em Produção Multimídia - Módulo 1,Design
+934,Matutino,Solteiro(a),Feminino,2015-08-04,Cancelamento da Programação,Superior de Tecnologia em Produção Multimídia - Módulo 1,Design
+935,Noturno,Divorciado(a),Feminino,2015-08-03,Cancelamento da Programação,SUPERIOR DE TECNOLOGIA EM GESTÃO AMBIENTAL - 1° MÓDULO ,Meio Ambiente (Ambiente e Saúde)
+936,Matutino,Solteiro(a),Masculino,2015-08-03,Cancelamento da Programação,Superior de Tecnologia em Produção Multimídia - Módulo 1,Design
+937,Matutino,Solteiro(a),Feminino,2015-08-03,Cancelamento da Programação,Superior de Tecnologia em Produção Multimídia - Módulo 1,Design
+938,Matutino,Solteiro(a),Masculino,2015-08-03,Cancelamento da Programação,Superior de Tecnologia em Produção Multimídia - Módulo 1,Design
+939,Matutino,Solteiro(a),Masculino,2015-06-25,Outros Motivos,CURSO SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO -  III MÓDULO,Design
+940,Noturno,Solteiro(a),Feminino,2015-06-22,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO -  III MÓDULO,Design
+941,Noturno,Solteiro(a),Masculino,2015-06-16,Outros Motivos,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+942,Noturno,Solteiro(a),Masculino,2015-06-10,Outros Motivos,Superior de Tecnologia em Gestão Ambiental - 1° Módulo ,Meio Ambiente (Ambiente e Saúde)
+943,Noturno,Solteiro(a),Masculino,2015-06-09,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO III,Informática
+944,Matutino,Solteiro(a),Masculino,2015-06-03,Outros Motivos,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+945,Matutino,Solteiro(a),Feminino,2015-06-01,Motivo de Estudo,Curso Superior de Tecnologia em Design Gráfico - Módulo I,Design
+946,Matutino,Solteiro(a),Masculino,2015-05-29,Outros Motivos,Superior de Tecnologia em Jogos Digitais - Módulo 1,Informática
+947,Matutino,Solteiro(a),Feminino,2015-05-27,Motivo de Saúde,Curso Superior de Tecnologia em Design Gráfico - Módulo I,Design
+948,Noturno,Solteiro(a),Masculino,2015-05-25,Outros Motivos,Curso Superior de Tecnologia em Design Gráfico - Módulo I,Design
+949,Noturno,Solteiro(a),Masculino,2015-05-25,Motivo de Trabalho,Curso Superior de Tecnologia em Segurança da Informação - Módulo I,Informática
+950,Noturno,Divorciado(a),Masculino,2015-05-19,Motivo de Trabalho,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+951,Noturno,Casado(a),Masculino,2015-05-18,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO -  III MÓDULO,Design
+952,Matutino,Solteiro(a),Masculino,2015-05-14,Mudança de Município,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+953,Matutino,Solteiro(a),Masculino,2015-05-13,Outros Motivos,Curso Superior de Tecnologia em Design Gráfico - Módulo I,Design
+954,Noturno,Casado(a),Masculino,2015-05-13,Motivo de Trabalho,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+955,Noturno,Solteiro(a),Masculino,2015-05-11,Motivo de Trabalho,Curso Superior de Tecnologia em Design Gráfico - Módulo I,Design
+956,Noturno,Solteiro(a),Masculino,2015-05-11,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO III,Informática
+957,Noturno,Solteiro(a),Masculino,2015-05-08,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO -  III MÓDULO,Design
+958,Noturno,Solteiro(a),Masculino,2015-05-08,Outros Motivos,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+959,Noturno,Solteiro(a),Feminino,2015-05-08,Outros Motivos,Curso Superior de Tecnologia em Segurança da Informação - Módulo I,Informática
+960,Matutino,Solteiro(a),Masculino,2015-05-07,Outros Motivos,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+961,Noturno,Solteiro(a),Masculino,2015-05-07,Outros Motivos,Curso Superior de Tecnologia em Segurança da Informação - Módulo I,Informática
+962,Matutino,Solteiro(a),Masculino,2015-05-05,Motivo de Trabalho,Curso Superior de Tecnologia em Design Gráfico - Módulo I,Design
+963,Noturno,Solteiro(a),Masculino,2015-05-05,Outros Motivos,Superior de Tecnologia em Gestão Comercial - Módulo I,Gestäo
+964,Noturno,Solteiro(a),Feminino,2015-05-05,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - MÓDULO II,Gestäo
+965,Noturno,Casado(a),Masculino,2015-04-30,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO -  III MÓDULO,Design
+966,Noturno,Casado(a),Masculino,2015-04-30,Outros Motivos,Curso Superior de Tecnologia em Segurança da Informação - Módulo I,Informática
+967,Noturno,Casado(a),Feminino,2015-04-29,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - MÓDULO III,Gestäo
+968,Noturno,Solteiro(a),Masculino,2015-04-29,Outros Motivos,Curso Superior de Tecnologia em Design Gráfico - Módulo I,Design
+969,Noturno,Solteiro(a),Masculino,2015-04-28,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - MÓDULO III,Gestäo
+970,Noturno,Solteiro(a),Masculino,2015-04-28,Outros Motivos,Curso Superior de Tecnologia em Segurança da Informação - Módulo I,Informática
+971,Matutino,Solteiro(a),Masculino,2015-04-27,Outros Motivos,SUPERIOR DE TECNOLOGIA EM PRODUÇÃO MULTIMÍDIA - MÓDULO III,Design
+972,Noturno,Solteiro(a),Masculino,2015-04-27,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO IV,Informática
+973,Noturno,Solteiro(a),Feminino,2015-04-24,Motivo de Saúde,SUPERIOR DE TECNOLOGIA EM GESTÃO AMBIENTAL - MÓDULO V,Meio Ambiente (Ambiente e Saúde)
+974,Noturno,Solteiro(a),Masculino,2015-04-24,Motivo de Trabalho,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+975,Noturno,Solteiro(a),Masculino,2015-04-24,Outros Motivos,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO II,Informática
+976,Noturno,Solteiro(a),Masculino,2015-04-22,Outros Motivos,CURSO SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - V MÓDULO,Design
+977,Matutino,Solteiro(a),Masculino,2015-04-22,Motivo de Estudo,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+978,Noturno,Solteiro(a),Masculino,2015-04-17,Motivo de Trabalho,Curso Superior de Tecnologia em Design Gráfico - Módulo I,Design
+979,Matutino,Solteiro(a),Masculino,2015-04-16,Motivo de Trabalho,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+980,Noturno,Solteiro(a),Masculino,2015-04-16,Outros Motivos,Curso Superior de Tecnologia em Segurança da Informação - Módulo I,Informática
+981,Noturno,Solteiro(a),Masculino,2015-04-15,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM GESTÃO AMBIENTAL - MÓDULO IV,Meio Ambiente (Ambiente e Saúde)
+982,Noturno,Solteiro(a),Masculino,2015-04-14,Outros Motivos,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+983,Noturno,Solteiro(a),Masculino,2015-04-13,Motivo de Viagens,Superior de Tecnologia em Gestão Ambiental - 1° Módulo ,Meio Ambiente (Ambiente e Saúde)
+984,Noturno,Solteiro(a),Feminino,2015-04-13,Outros Motivos,CURSO SUPERIOR DE TECNOLOGIA EM GESTÃO AMBIENTAL - MÓDULO III,Meio Ambiente (Ambiente e Saúde)
+985,Matutino,Solteiro(a),Masculino,2015-04-13,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO II,Informática
+986,Noturno,Solteiro(a),Masculino,2015-04-13,Outros Motivos,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO III,Informática
+987,Matutino,Solteiro(a),Masculino,2015-04-10,Outros Motivos,SUPERIOR DE TECNOLOGIA EM JOGOS DIGITAIS - II MÓDULO ,Informática
+988,Matutino,Solteiro(a),Masculino,2015-04-10,Motivo de Saúde,SUPERIOR DE TECNOLOGIA EM JOGOS DIGITAIS - MÓDULO III,Informática
+989,Noturno,Solteiro(a),Masculino,2015-04-10,Motivo de Trabalho,Curso Superior de Tecnologia em Segurança da Informação - Módulo I,Informática
+990,Noturno,Solteiro(a),Masculino,2015-04-09,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO III,Informática
+991,Matutino,Solteiro(a),Masculino,2015-04-09,Outros Motivos,Superior de Tecnologia em Jogos Digitais - Módulo 1,Informática
+992,Matutino,Solteiro(a),Masculino,2015-04-09,Outros Motivos,Superior de Tecnologia em Jogos Digitais - Módulo 1,Informática
+993,Noturno,Solteiro(a),Masculino,2015-04-08,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO V,Informática
+994,Noturno,Casado(a),Masculino,2015-04-07,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO II,Informática
+995,Matutino,Solteiro(a),Masculino,2015-04-06,Outros Motivos,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+996,Noturno,Solteiro(a),Masculino,2015-04-06,Outros Motivos,Curso Superior de Tecnologia em Segurança da Informação - Módulo I,Informática
+997,Matutino,Solteiro(a),Masculino,2015-04-01,Motivo de Trabalho,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+998,Matutino,Solteiro(a),Masculino,2015-04-01,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO IV,Informática
+999,Noturno,Solteiro(a),Masculino,2015-03-31,Outros Motivos,Curso Superior de Tecnologia em Design Gráfico - Módulo I,Design
+1000,Matutino,Solteiro(a),Masculino,2015-03-31,Outros Motivos,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+1001,Noturno,Solteiro(a),Masculino,2015-03-31,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO V,Informática
+1002,Noturno,Solteiro(a),Masculino,2015-03-28,Outros Motivos,Curso Superior de Tecnologia em Segurança da Informação - Módulo I,Informática
+1003,Noturno,Divorciado(a),Feminino,2015-03-27,Outros Motivos,Curso Superior de Tecnologia em Design Gráfico - Módulo I,Design
+1004,Noturno,Solteiro(a),Masculino,2015-03-26,Motivo de Saúde,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO II,Informática
+1005,Noturno,Solteiro(a),Masculino,2015-03-25,Motivo de Trabalho,Superior de Tecnologia em Gestão Comercial - Módulo I,Gestäo
+1006,Matutino,Solteiro(a),Masculino,2015-03-23,Mudança de Município,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+1007,Noturno,Solteiro(a),Masculino,2015-03-23,Motivo de Trabalho,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+1008,Matutino,Solteiro(a),Feminino,2015-03-23,Outros Motivos,Superior de Tecnologia em Jogos Digitais - Módulo 1,Informática
+1009,Noturno,Casado(a),Masculino,2015-03-23,Outros Motivos,Curso Superior de Tecnologia em Segurança da Informação - Módulo I,Informática
+1010,Noturno,Casado(a),Masculino,2015-03-23,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO II,Informática
+1011,Matutino,Solteiro(a),Masculino,2015-03-20,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM JOGOS DIGITAIS - MÓDULO III,Informática
+1012,Matutino,Solteiro(a),Feminino,2015-03-19,Outros Motivos,Curso Superior de Tecnologia em Design Gráfico - Módulo I,Design
+1013,Noturno,Solteiro(a),Masculino,2015-03-19,Motivo de Estudo,Superior de Tecnologia em Gestão Ambiental - 1° Módulo ,Meio Ambiente (Ambiente e Saúde)
+1014,Noturno,Solteiro(a),Feminino,2015-03-19,Outros Motivos,Superior de Tecnologia em Gestão Comercial - Módulo I,Gestäo
+1015,Matutino,Solteiro(a),Masculino,2015-03-18,Outros Motivos,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+1016,Noturno,Solteiro(a),Masculino,2015-03-17,Motivo de Trabalho,Curso Superior de Tecnologia em Design Gráfico - Módulo I,Design
+1017,Noturno,Solteiro(a),Masculino,2015-03-17,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO II,Informática
+1018,Matutino,Solteiro(a),Masculino,2015-03-16,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO II,Informática
+1019,Noturno,Solteiro(a),Masculino,2015-03-12,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO III,Informática
+1020,Noturno,Solteiro(a),Feminino,2015-03-10,Outros Motivos,CURSO SUPERIOR DE TECNOLOGIA EM GESTÃO AMBIENTAL - MÓDULO III,Meio Ambiente (Ambiente e Saúde)
+1021,Noturno,Solteiro(a),Feminino,2015-03-10,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM GESTÃO AMBIENTAL - MÓDULO III,Meio Ambiente (Ambiente e Saúde)
+1022,Matutino,Solteiro(a),Masculino,2015-03-10,Outros Motivos,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+1023,Noturno,Solteiro(a),Masculino,2015-03-10,Outros Motivos,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+1024,Noturno,Solteiro(a),Masculino,2015-03-10,Outros Motivos,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+1025,Noturno,Outros,Masculino,2015-03-10,Outros Motivos,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO II,Informática
+1026,Noturno,Solteiro(a),Masculino,2015-03-09,Motivo de Estudo,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - MÓDULO III,Gestäo
+1027,Noturno,Solteiro(a),Feminino,2015-03-09,Mudança de Município,Curso Superior de Tecnologia em Segurança da Informação - Módulo I,Informática
+1028,Noturno,Solteiro(a),Masculino,2015-03-06,Outros Motivos,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+1029,Noturno,Casado(a),Masculino,2015-03-06,Outros Motivos,Curso Superior de Tecnologia em Segurança da Informação - Módulo I,Informática
+1030,Noturno,Solteiro(a),Masculino,2015-03-06,Outros Motivos,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO II,Informática
+1031,Noturno,Divorciado(a),Masculino,2015-03-04,Outros Motivos,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO III,Informática
+1032,Noturno,Solteiro(a),Feminino,2015-03-03,Outros Motivos,Superior de Tecnologia em Gestão Ambiental - 1° Módulo ,Meio Ambiente (Ambiente e Saúde)
+1033,Noturno,Solteiro(a),Feminino,2015-03-03,Mudança de Município,Superior de Tecnologia em Gestão Comercial - Módulo I,Gestäo
+1034,Noturno,Casado(a),Masculino,2015-03-03,Motivo de Trabalho,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+1035,Noturno,Solteiro(a),Masculino,2015-03-03,Outros Motivos,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+1036,Matutino,Solteiro(a),Masculino,2015-03-03,Outros Motivos,Superior de Tecnologia em Jogos Digitais - Módulo 1,Informática
+1037,Noturno,Casado(a),Masculino,2015-03-03,Outros Motivos,Curso Superior de Tecnologia em Segurança da Informação - Módulo I,Informática
+1038,Noturno,Solteiro(a),Masculino,2015-03-02,Outros Motivos,CURSO SUPERIOR DE TECNOLOGIA EM GESTÃO AMBIENTAL - MÓDULO III,Meio Ambiente (Ambiente e Saúde)
+1039,Noturno,Solteiro(a),Feminino,2015-03-02,Outros Motivos,Superior de Tecnologia em Gestão Comercial - Módulo I,Gestäo
+1040,Matutino,Solteiro(a),Masculino,2015-03-02,Mudança de Município,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO II,Informática
+1041,Noturno,Solteiro(a),Masculino,2015-03-02,Outros Motivos,Curso Superior de Tecnologia em Segurança da Informação - Módulo I,Informática
+1042,Noturno,Solteiro(a),Masculino,2015-02-27,Outros Motivos,Superior de Tecnologia em Gestão Comercial - Módulo I,Gestäo
+1043,Matutino,Casado(a),Masculino,2015-02-27,Motivo de Trabalho,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+1044,Matutino,Solteiro(a),Masculino,2015-02-27,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO II,Informática
+1045,Matutino,Casado(a),Masculino,2015-02-26,Motivo de Viagens,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO III,Informática
+1046,Noturno,Solteiro(a),Feminino,2015-02-23,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO AMBIENTAL - MÓDULO V,Meio Ambiente (Ambiente e Saúde)
+1047,Noturno,Solteiro(a),Feminino,2015-02-23,Mudança de Município,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+1048,Noturno,Solteiro(a),Feminino,2015-02-20,Motivo de Saúde,Curso Superior de Tecnologia em Design Gráfico - Módulo I,Design
+1049,Noturno,Solteiro(a),Masculino,2015-02-19,Outros Motivos,Curso Superior de Tecnologia em Segurança da Informação - Módulo I,Informática
+1050,Noturno,Casado(a),Masculino,2015-02-18,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO III,Informática
+1051,Noturno,Solteiro(a),Feminino,2015-02-12,Motivo de Saúde,Curso Superior de Tecnologia em Design Gráfico - Módulo I,Design
+1052,Noturno,Solteiro(a),Feminino,2015-02-12,Outros Motivos,Superior de Tecnologia em Gestão Comercial - Módulo I,Gestäo
+1053,Noturno,Solteiro(a),Masculino,2015-02-12,Outros Motivos,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+1054,Matutino,Solteiro(a),Masculino,2015-02-11,Motivo de Estudo,CURSO SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO -  III MÓDULO,Design
+1055,Noturno,Solteiro(a),Masculino,2015-02-10,Outros Motivos,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+1056,Matutino,Solteiro(a),Masculino,2015-02-09,Motivo de Estudo,CURSO SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO -  III MÓDULO,Design
+1057,Matutino,Solteiro(a),Masculino,2014-12-12,Outros Motivos,Superior de Tecnologia em Design Gráfico - IV MÓDULO,Design
+1058,Noturno,Solteiro(a),Masculino,2014-12-01,Outros Motivos,CURSO SUPERIOR DE TECNOLOGIA EM GESTÃO AMBIENTAL - MÓDULO II,Meio Ambiente (Ambiente e Saúde)
+1059,Matutino,Solteiro(a),Masculino,2014-12-01,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM JOGOS DIGITAIS - I MÓDULO ,Informática
+1060,Matutino,Casado(a),Masculino,2014-11-19,Motivo de Saúde,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO II,Informática
+1061,Noturno,Solteiro(a),Masculino,2014-11-13,Outros Motivos,Superior de Tecnologia em Design Gráfico - II Módulo,Design
+1062,Noturno,Solteiro(a),Feminino,2014-11-06,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - MÓDULO II,Gestäo
+1063,Noturno,Solteiro(a),Masculino,2014-11-04,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM GESTÃO AMBIENTAL - MÓDULO II,Meio Ambiente (Ambiente e Saúde)
+1064,Matutino,Casado(a),Masculino,2014-11-04,Motivo de Trabalho,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+1065,Matutino,Casado(a),Masculino,2014-10-31,Motivo de Viagens,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO III,Informática
+1066,Matutino,Solteiro(a),Masculino,2014-10-31,Motivo de Saúde,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo IV,Informática
+1067,Matutino,Solteiro(a),Masculino,2014-10-31,Outros Motivos,SUPERIOR DE TECNOLOGIA EM JOGOS DIGITAIS - II MÓDULO ,Informática
+1068,Noturno,Solteiro(a),Masculino,2014-10-31,Outros Motivos,Curso Superior de Tecnologia em Segurança da Informação - Módulo I,Informática
+1069,Noturno,Solteiro(a),Masculino,2014-10-31,Motivo de Saúde,Curso Superior de Tecnologia em Segurança da Informação - Módulo I,Informática
+1070,Noturno,Solteiro(a),Masculino,2014-10-29,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM GESTÃO AMBIENTAL - III MÓDULO ,Meio Ambiente (Ambiente e Saúde)
+1071,Noturno,Solteiro(a),Masculino,2014-10-29,Motivo de Trabalho,Superior de Tecnologia em Gestão Comercial - Módulo I,Gestäo
+1072,Noturno,Casado(a),Masculino,2014-10-22,Outros Motivos,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - III MÓDULO ,Informática
+1073,Noturno,Solteiro(a),Masculino,2014-10-21,Mudança de Município,Curso Superior de Tecnologia em Segurança da Informação - Módulo I,Informática
+1074,Noturno,Casado(a),Feminino,2014-10-20,Outros Motivos,Superior de Tecnologia em Gestão Comercial - III Módulo,Gestäo
+1075,Noturno,Solteiro(a),Masculino,2014-10-17,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO II,Informática
+1076,Noturno,Solteiro(a),Masculino,2014-10-15,Motivo de Trabalho,Superior de Tecnologia em Gestão Comercial - Módulo I,Gestäo
+1077,Noturno,Solteiro(a),Masculino,2014-10-15,Motivo de Trabalho,Curso Superior de Tecnologia em Segurança da Informação - Módulo I,Informática
+1078,Noturno,Solteiro(a),Masculino,2014-10-14,Outros Motivos,Superior de Tecnologia em Design Gráfico - II Módulo,Design
+1079,Matutino,Casado(a),Masculino,2014-10-14,Outros Motivos,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - II MÓDULO,Design
+1080,Matutino,Solteiro(a),Masculino,2014-10-13,Outros Motivos,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+1081,Noturno,Solteiro(a),Masculino,2014-10-10,Motivo de Trabalho,Superior de Tecnologia em Gestão Comercial - IV Módulo,Gestäo
+1082,Matutino,Solteiro(a),Masculino,2014-10-09,Outros Motivos,SUPERIOR DE TECNOLOGIA EM JOGOS DIGITAIS - I MÓDULO ,Informática
+1083,Noturno,Solteiro(a),Masculino,2014-10-08,Outros Motivos,Curso Superior de Tecnologia em Segurança da Informação - Módulo I,Informática
+1084,Matutino,Solteiro(a),Masculino,2014-10-07,Motivo de Trabalho,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+1085,Noturno,Solteiro(a),Masculino,2014-10-07,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO II,Informática
+1086,Matutino,Solteiro(a),Feminino,2014-10-06,Motivo de Estudo,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - II MÓDULO,Design
+1087,Matutino,Solteiro(a),Feminino,2014-10-06,Motivo de Saúde,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - II MÓDULO,Design
+1088,Noturno,Solteiro(a),Masculino,2014-10-06,Motivo de Trabalho,Superior de Tecnologia em Gestão Ambiental - IV Módulo,Meio Ambiente (Ambiente e Saúde)
+1089,Matutino,Solteiro(a),Masculino,2014-10-06,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM JOGOS DIGITAIS - I MÓDULO ,Informática
+1090,Noturno,Solteiro(a),Masculino,2014-10-03,Motivo de Saúde,Curso Superior de Tecnologia em Segurança da Informação - Módulo I,Informática
+1091,Matutino,Solteiro(a),Masculino,2014-10-01,Motivo de Trabalho,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+1092,Noturno,Solteiro(a),Masculino,2014-09-30,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO II,Informática
+1093,Matutino,Solteiro(a),Masculino,2014-09-29,Outros Motivos,SUPERIOR DE TECNOLOGIA EM JOGOS DIGITAIS - I MÓDULO ,Informática
+1094,Noturno,Casado(a),Masculino,2014-09-26,Motivo de Trabalho,Superior de Tecnologia em Gestão Comercial - III Módulo,Gestäo
+1095,Matutino,Solteiro(a),Masculino,2014-09-26,Motivo de Trabalho,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+1096,Matutino,Solteiro(a),Masculino,2014-09-26,Mudança de Município,SUPERIOR DE TECNOLOGIA EM JOGOS DIGITAIS - I MÓDULO ,Informática
+1097,Noturno,Casado(a),Masculino,2014-09-25,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO II,Informática
+1098,Noturno,Solteiro(a),Masculino,2014-09-25,Motivo de Trabalho,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo IV,Informática
+1099,Matutino,Solteiro(a),Masculino,2014-09-24,Motivo de Trabalho,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+1100,Noturno,Solteiro(a),Masculino,2014-09-24,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO II,Informática
+1101,Matutino,Solteiro(a),Masculino,2014-09-24,Motivo de Trabalho,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo V,Informática
+1102,Matutino,Solteiro(a),Masculino,2014-09-24,Outros Motivos,SUPERIOR DE TECNOLOGIA EM JOGOS DIGITAIS - I MÓDULO ,Informática
+1103,Matutino,Casado(a),Masculino,2014-09-23,Motivo de Trabalho,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+1104,Matutino,Solteiro(a),Masculino,2014-09-23,Outros Motivos,SUPERIOR DE TECNOLOGIA EM JOGOS DIGITAIS - I MÓDULO ,Informática
+1105,Noturno,Solteiro(a),Masculino,2014-09-22,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO II,Informática
+1106,Matutino,Solteiro(a),Masculino,2014-09-19,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM PRODUÇÃO MULTIMÍDIA - MÓDULO 2,Design
+1107,Noturno,Casado(a),Masculino,2014-09-19,Motivo de Trabalho,Curso Superior de Tecnologia em Segurança da Informação - Módulo I,Informática
+1108,Matutino,Solteiro(a),Masculino,2014-09-18,Motivo de Viagens,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+1109,Noturno,Solteiro(a),Masculino,2014-09-17,Outros Motivos,Superior de Tecnologia em Gestão Comercial - III Módulo,Gestäo
+1110,Noturno,Casado(a),Masculino,2014-09-17,Motivo de Estudo,Curso Superior de Tecnologia em Segurança da Informação - Módulo I,Informática
+1111,Noturno,Solteiro(a),Masculino,2014-09-16,Motivo de Trabalho,Superior de Tecnologia em Design Gráfico - II Módulo,Design
+1112,Noturno,Divorciado(a),Masculino,2014-09-16,Motivo de Trabalho,Curso Superior de Tecnologia em Segurança da Informação - Módulo I,Informática
+1113,Noturno,Solteiro(a),Masculino,2014-09-09,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO II,Informática
+1114,Noturno,Solteiro(a),Masculino,2014-09-05,Motivo de Trabalho,Superior de Tecnologia em Design Gráfico - IV MÓDULO,Design
+1115,Noturno,Solteiro(a),Masculino,2014-09-05,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO II,Informática
+1116,Noturno,Casado(a),Masculino,2014-09-05,Motivo de Viagens,Curso Superior de Tecnologia em Segurança da Informação - Módulo I,Informática
+1117,Noturno,Solteiro(a),Masculino,2014-09-04,Outros Motivos,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+1118,Matutino,Casado(a),Masculino,2014-09-04,Motivo de Trabalho,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+1119,Noturno,Solteiro(a),Feminino,2014-09-03,Motivo de Trabalho,Superior de Tecnologia em Gestão Comercial - Módulo I,Gestäo
+1120,Matutino,Solteiro(a),Masculino,2014-09-03,Outros Motivos,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+1121,Matutino,Solteiro(a),Masculino,2014-09-02,Outros Motivos,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - II MÓDULO,Design
+1122,Noturno,Outros,Feminino,2014-09-02,Motivo de Saúde,CURSO SUPERIOR DE TECNOLOGIA EM GESTÃO AMBIENTAL - MÓDULO II,Meio Ambiente (Ambiente e Saúde)
+1123,Matutino,Casado(a),Masculino,2014-09-02,Outros Motivos,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+1124,Matutino,Casado(a),Masculino,2014-09-02,Motivo de Viagens,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+1125,Matutino,Solteiro(a),Masculino,2014-09-02,Outros Motivos,SUPERIOR DE TECNOLOGIA EM JOGOS DIGITAIS - I MÓDULO ,Informática
+1126,Noturno,Solteiro(a),Masculino,2014-09-02,Outros Motivos,Curso Superior de Tecnologia em Segurança da Informação - Módulo I,Informática
+1127,Matutino,Casado(a),Feminino,2014-09-01,Outros Motivos,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - II MÓDULO,Design
+1128,Noturno,Solteiro(a),Feminino,2014-09-01,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM GESTÃO AMBIENTAL - III MÓDULO ,Meio Ambiente (Ambiente e Saúde)
+1129,Noturno,Solteiro(a),Masculino,2014-08-23,Outros Motivos,Curso Superior de Tecnologia em Segurança da Informação - Módulo I,Informática
+1130,Matutino,Casado(a),Feminino,2014-08-22,Outros Motivos,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - II MÓDULO,Design
+1131,Noturno,Solteiro(a),Masculino,2014-08-22,Motivo de Trabalho,Curso Superior de Tecnologia em Segurança da Informação - Módulo I,Informática
+1132,Noturno,Casado(a),Feminino,2014-08-21,Outros Motivos,Superior de Tecnologia em Gestão Comercial - III Módulo,Gestäo
+1133,Noturno,Casado(a),Feminino,2014-08-15,Motivo de Saúde,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - MÓDULO II,Gestäo
+1134,Noturno,Solteiro(a),Masculino,2014-08-11,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - MÓDULO II,Gestäo
+1135,Noturno,Solteiro(a),Feminino,2014-06-16,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - MÓDULO II,Gestäo
+1136,Noturno,Casado(a),Feminino,2014-06-11,Motivo de Saúde,SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO V,Informática
+1137,Matutino,Solteiro(a),Masculino,2014-06-06,Outros Motivos,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+1138,Matutino,Solteiro(a),Masculino,2014-05-27,Outros Motivos,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - III MÓDULO,Design
+1139,Matutino,Solteiro(a),Masculino,2014-05-20,Outros Motivos,Superior de Tecnologia em Produção Multimídia - Módulo 1,Design
+1140,Matutino,Solteiro(a),Masculino,2014-05-15,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - V MÓDULO,Design
+1141,Noturno,Solteiro(a),Feminino,2014-05-15,Motivo de Trabalho,Superior de Tecnologia em Gestão Comercial - Módulo I,Gestäo
+1142,Noturno,Divorciado(a),Masculino,2014-05-15,Motivo de Saúde,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO I,Informática
+1143,Noturno,Solteiro(a),Masculino,2014-05-14,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO I,Informática
+1144,Noturno,Solteiro(a),Feminino,2014-05-12,Outros Motivos,Superior de Tecnologia em Gestão Comercial - Módulo I,Gestäo
+1145,Noturno,Divorciado(a),Masculino,2014-05-12,Outros Motivos,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO II,Informática
+1146,Matutino,Solteiro(a),Feminino,2014-05-09,Motivo de Estudo,Curso Superior de Tecnologia em Design Gráfico - Módulo I,Design
+1147,Noturno,Solteiro(a),Masculino,2014-05-09,Motivo de Saúde,SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - MÓDULO II,Gestäo
+1148,Matutino,Solteiro(a),Masculino,2014-05-09,Motivo de Trabalho,Superior de Tecnologia em Produção Multimídia - Módulo 1,Design
+1149,Noturno,Solteiro(a),Masculino,2014-05-08,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - III MÓDULO,Design
+1150,Noturno,Divorciado(a),Masculino,2014-05-07,Outros Motivos,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO I,Informática
+1151,Matutino,Casado(a),Feminino,2014-05-06,Outros Motivos,Curso Superior de Tecnologia em Design Gráfico - Módulo I,Design
+1152,Noturno,Solteiro(a),Masculino,2014-05-05,Abandono sem Justificativa,Curso Superior de Tecnologia em Design Gráfico - Módulo I,Design
+1153,Noturno,Solteiro(a),Masculino,2014-04-29,Outros Motivos,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - III MÓDULO,Design
+1154,Matutino,Solteiro(a),Masculino,2014-04-29,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO II,Informática
+1155,Noturno,Solteiro(a),Masculino,2014-04-28,Outros Motivos,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+1156,Noturno,Solteiro(a),Masculino,2014-04-25,Motivo de Trabalho,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+1157,Matutino,Solteiro(a),Masculino,2014-04-25,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM JOGOS DIGITAIS - MÓDULO 1,Informática
+1158,Noturno,Solteiro(a),Masculino,2014-04-22,Motivo de Saúde,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO I,Informática
+1159,Matutino,Solteiro(a),Masculino,2014-04-14,Outros Motivos,Superior de Tecnologia em Produção Multimídia - Módulo 1,Design
+1160,Matutino,Casado(a),Feminino,2014-04-10,Motivo de Saúde,Curso Superior de Tecnologia em Design Gráfico - Módulo I,Design
+1161,Noturno,Solteiro(a),Feminino,2014-04-09,Motivo de Trabalho,Curso Superior de Tecnologia em Design Gráfico - Módulo I,Design
+1162,Noturno,Casado(a),Masculino,2014-04-08,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - V MÓDULO,Gestäo
+1163,Noturno,Solteiro(a),Masculino,2014-04-08,Motivo de Estudo,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+1164,Matutino,Solteiro(a),Masculino,2014-04-08,Motivo de Trabalho,Superior de Tecnologia em Produção Multimídia - Módulo 1,Design
+1165,Noturno,Solteiro(a),Masculino,2014-04-08,Mudança de Município,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO I,Informática
+1166,Noturno,Casado(a),Masculino,2014-04-07,Outros Motivos,Superior de Tecnologia em Gestão Comercial - Módulo I,Gestäo
+1167,Noturno,Solteiro(a),Masculino,2014-04-07,Motivo de Trabalho,Superior de Tecnologia em Gestão Comercial - Módulo I,Gestäo
+1168,Noturno,Solteiro(a),Masculino,2014-04-07,Outros Motivos,SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO IV,Informática
+1169,Noturno,Solteiro(a),Masculino,2014-04-03,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO I,Informática
+1170,Noturno,Casado(a),Masculino,2014-04-02,Outros Motivos,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO III,Informática
+1171,Noturno,Solteiro(a),Masculino,2014-04-02,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO I,Informática
+1172,Noturno,Solteiro(a),Masculino,2014-04-01,Outros Motivos,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO I,Informática
+1173,Matutino,Solteiro(a),Masculino,2014-03-31,Motivo de Trabalho,Curso Superior de Tecnologia em Design Gráfico - Módulo I,Design
+1174,Noturno,Solteiro(a),Masculino,2014-03-31,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM GESTÃO AMBIENTAL - MÓDULO III,Meio Ambiente (Ambiente e Saúde)
+1175,Noturno,Solteiro(a),Masculino,2014-03-28,Motivo de Trabalho,Curso Superior de Tecnologia em Design Gráfico - Módulo I,Design
+1176,Matutino,Solteiro(a),Feminino,2014-03-28,Mudança de Município,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - III MÓDULO,Design
+1177,Matutino,Casado(a),Masculino,2014-03-28,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM JOGOS DIGITAIS - MÓDULO 1,Informática
+1178,Noturno,Solteiro(a),Masculino,2014-03-27,Mudança de Município,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO III,Informática
+1179,Noturno,Solteiro(a),Masculino,2014-03-25,Outros Motivos,CURSO SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - III MÓDULO,Gestäo
+1180,Noturno,Solteiro(a),Feminino,2014-03-24,Motivo de Trabalho,Curso Superior de Tecnologia em Design Gráfico - Módulo I,Design
+1181,Noturno,Solteiro(a),Masculino,2014-03-21,Motivo de Trabalho,Curso Superior de Tecnologia em Design Gráfico - Módulo I,Design
+1182,Matutino,Solteiro(a),Masculino,2014-03-21,Outros Motivos,SUPERIOR DE TECNOLOGIA EM JOGOS DIGITAIS - MÓDULO 1,Informática
+1183,Matutino,Solteiro(a),Masculino,2014-03-21,Outros Motivos,SUPERIOR DE TECNOLOGIA EM JOGOS DIGITAIS - MÓDULO 1,Informática
+1184,Matutino,Solteiro(a),Masculino,2014-03-21,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM JOGOS DIGITAIS - MÓDULO 1,Informática
+1185,Matutino,Solteiro(a),Masculino,2014-03-20,Motivo de Trabalho,Curso Superior de Tecnologia em Design Gráfico - Módulo I,Design
+1186,Matutino,Solteiro(a),Feminino,2014-03-18,Motivo de Estudo,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - III MÓDULO,Design
+1187,Noturno,Solteiro(a),Masculino,2014-03-18,Motivo de Viagens,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+1188,Matutino,Solteiro(a),Masculino,2014-03-17,Outros Motivos,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+1189,Matutino,Solteiro(a),Masculino,2014-03-15,Outros Motivos,SUPERIOR DE TECNOLOGIA EM JOGOS DIGITAIS - MÓDULO 1,Informática
+1190,Matutino,Solteiro(a),Masculino,2014-03-14,Motivo de Trabalho,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+1191,Matutino,Solteiro(a),Masculino,2014-03-14,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO IV,Informática
+1192,Noturno,Solteiro(a),Feminino,2014-03-13,Outros Motivos,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO I,Informática
+1193,Noturno,Solteiro(a),Masculino,2014-03-12,Outros Motivos,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - III MÓDULO,Design
+1194,Noturno,Solteiro(a),Masculino,2014-03-10,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM GESTÃO AMBIENTAL - MÓDULO III,Meio Ambiente (Ambiente e Saúde)
+1195,Noturno,Solteiro(a),Masculino,2014-03-10,Motivo de Trabalho,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+1196,Matutino,Solteiro(a),Masculino,2014-03-08,Motivo de Trabalho,Curso Superior de Tecnologia em Design Gráfico - Módulo I,Design
+1197,Noturno,Solteiro(a),Feminino,2014-03-06,Outros Motivos,Curso Superior de Tecnologia em Design Gráfico - Módulo I,Design
+1198,Noturno,Solteiro(a),Feminino,2014-03-06,Motivo de Saúde,Superior de Tecnologia em Gestão Comercial - Módulo I,Gestäo
+1199,Matutino,Casado(a),Masculino,2014-03-06,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO III,Informática
+1200,Matutino,Solteiro(a),Feminino,2014-03-06,Outros Motivos,SUPERIOR DE TECNOLOGIA EM JOGOS DIGITAIS - MÓDULO 1,Informática
+1201,Matutino,Solteiro(a),Masculino,2014-03-06,Outros Motivos,Superior de Tecnologia em Produção Multimídia - Módulo 1,Design
+1202,Matutino,Divorciado(a),Masculino,2014-02-28,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM DESIGN GRÁFICO - III MÓDULO,Design
+1203,Matutino,Solteiro(a),Masculino,2014-02-28,Outros Motivos,Superior de Tecnologia em Produção Multimídia - Módulo 1,Design
+1204,Noturno,Solteiro(a),Masculino,2014-02-28,Outros Motivos,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO I,Informática
+1205,Matutino,Solteiro(a),Feminino,2014-02-26,Outros Motivos,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+1206,Noturno,Solteiro(a),Masculino,2014-02-25,Motivo de Trabalho,Curso Superior de Tecnologia em Gestão Ambiental - Módulo I,Meio Ambiente (Ambiente e Saúde)
+1207,Noturno,Solteiro(a),Masculino,2014-02-25,Outros Motivos,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+1208,Matutino,Solteiro(a),Masculino,2014-02-25,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - MÓDULO II,Informática
+1209,Noturno,Solteiro(a),Masculino,2014-02-24,Motivo de Trabalho,Curso Superior de Tecnologia em Design Gráfico - Módulo I,Design
+1210,Noturno,Solteiro(a),Feminino,2014-02-24,Motivo de Trabalho,Curso Superior de Tecnologia em Gestão Ambiental - Módulo I,Meio Ambiente (Ambiente e Saúde)
+1211,Matutino,Solteiro(a),Feminino,2014-02-21,Outros Motivos,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+1212,Matutino,Solteiro(a),Masculino,2014-02-21,Motivo de Trabalho,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+1213,Noturno,Solteiro(a),Masculino,2014-02-21,Outros Motivos,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO I,Informática
+1214,Noturno,Solteiro(a),Feminino,2014-02-19,Motivo de Viagens,CURSO SUPERIOR DE TECNOLOGIA EM GESTÃO AMBIENTAL - MÓDULO III,Meio Ambiente (Ambiente e Saúde)
+1215,Noturno,Viúvo(a),Masculino,2014-02-18,Outros Motivos,CURSO SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL - III MÓDULO,Gestäo
+1216,Matutino,Solteiro(a),Feminino,2014-02-18,Outros Motivos,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+1217,Noturno,Solteiro(a),Masculino,2014-02-18,Outros Motivos,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO I,Informática
+1218,Matutino,Solteiro(a),Masculino,2014-02-17,Motivo de Estudo,SUPERIOR DE TECNOLOGIA EM JOGOS DIGITAIS - MÓDULO 1,Informática
+1219,Noturno,Solteiro(a),Masculino,2014-02-13,Transferência de Programação,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+1220,Noturno,Solteiro(a),Masculino,2014-02-13,Transferência de Programação,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+1221,Matutino,Solteiro(a),Masculino,2014-02-13,Motivo de Viagens,SUPERIOR DE TECNOLOGIA EM JOGOS DIGITAIS - MÓDULO 1,Informática
+1222,Matutino,Solteiro(a),Masculino,2014-02-13,Outros Motivos,Superior de Tecnologia em Produção Multimídia - Módulo 1,Design
+1223,Noturno,Solteiro(a),Masculino,2014-02-13,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO I,Informática
+1224,Noturno,Solteiro(a),Masculino,2014-02-13,Outros Motivos,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO II,Informática
+1225,Noturno,Solteiro(a),Masculino,2014-02-12,Transferência de Programação,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+1226,Noturno,Casado(a),Masculino,2014-02-10,Motivo de Trabalho,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+1227,Matutino,Solteiro(a),Masculino,2014-02-10,Outros Motivos,Superior de Tecnologia em Produção Multimídia - Módulo 1,Design
+1228,Noturno,Solteiro(a),Masculino,2014-02-10,Outros Motivos,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO II,Informática
+1229,Noturno,Solteiro(a),Masculino,2014-02-07,Transferência de Programação,Superior de Tecnologia em Gestão da Tecnologia da Informação - Módulo I,Informática
+1230,Noturno,Solteiro(a),Masculino,2014-02-07,Motivo de Trabalho,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO I,Informática
+1231,Matutino,Solteiro(a),Feminino,2014-02-06,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM JOGOS DIGITAIS - MÓDULO 1,Informática
+1232,,Solteiro(a),Masculino,2014-02-05,Motivo de Estudo,PÓS GRADUAÇÃO LATO SENSU EM DESENVOLVIMENTO DE SOFTWARE,Informática
+1233,,Casado(a),Masculino,2014-02-05,Outros Motivos,PÓS GRADUAÇÃO LATO SENSU EM DESENVOLVIMENTO DE SOFTWARE,Informática
+1234,Matutino,Solteiro(a),Feminino,2014-02-05,Motivo de Trabalho,SUPERIOR DE TECNOLOGIA EM JOGOS DIGITAIS - MÓDULO 1,Informática
+1235,Noturno,Solteiro(a),Masculino,2013-12-04,Outros Motivos,CURSO SUPERIOR DE TECNOLOGIA EM SEGURANÇA DA INFORMAÇÃO - MÓDULO I,Informática
